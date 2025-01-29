@@ -1,0 +1,246 @@
+{
+    "North": {
+        "Uttar Pradesh": {
+            "Aligarh": [
+                "Aligarh Muslim University"
+            ],
+            "Noida": [
+                "Amity Business School, Amity University, Noida",
+                "Jaipuria Institute of Management Noida"
+            ],
+            "Gautam Budh Nagar": [
+                "Amity University"
+            ],
+            "Varanasi": [
+                "Banaras Hindu University",
+                "Institute of Management Studies, Banaras Hindu University"
+            ],
+            "Greater Noida": [
+                "Birla Institute of Management Technology",
+                "GNIOT Institute of Management Studies (GIMS)"
+            ],
+            "Kanpur": [
+                "Department of Industrial and Management Engineering, IIT, Kanpur",
+                "DMS, Indian Institute of Technology (IIT) Kanpur",
+                "Indian Institute of Technology Kanpur"
+            ],
+            "Ghaziabad": [
+                "Institute of Management Studies",
+                "Institute of Management Technology (IMT)"
+            ],
+            "Lucknow": [
+                "Jaipuria Institute of Management Lucknow"
+            ]
+        },
+        "Haryana": {
+            "Gurugram": [
+                "BML Munjal University",
+                "IILM Institute for Business and Management",
+                "Management Development Institute"
+            ],
+            "Gurgaon": [
+                "SOIL Institute of Management"
+            ]
+        },
+        "Punjab": {
+            "Mohali": [
+                "Chandigarh University"
+            ],
+            "Phagwara": [
+                "Lovely Professional University"
+            ],
+            "Patiala": [
+                "Thapar Institute of Engineering and Technology"
+            ]
+        },
+        "Delhi": {
+            "New Delhi": [
+                "Department of Commerce, Delhi School of Economics, University of Delhi",
+                "Faculty of Management Studies (FMS), University of Delhi",
+                "Fore School of Management",
+                "Indian Institute of Foreign Trade",
+                "International Management Institute",
+                "International Management Institute (IMI)",
+                "Jagan Institute of Management Studies (JIMS)",
+                "Jamia Millia Islamia",
+                "Lal Bahadur Shastri Institute of Management"
+            ],
+            "Delhi": [
+                "Indian Institute of Technology (IIT) Delhi"
+            ]
+        },
+        "Rajasthan": {
+            "Pilani": [
+                "Department of Management, BITS, Pilani"
+            ]
+        },
+        "Uttarakhand": {
+            "Dehradun": [
+                "Graphic Era University",
+                "UPES"
+            ],
+            "Roorkee": [
+                "Indian Institute of Technology Roorkee"
+            ]
+        },
+        "Madhya Pradesh": {
+            "Bhopal": [
+                "Indian Institute of Forest Management (IIFM)"
+            ]
+        },
+        "Chandigarh": {
+            "Chandigarh": [
+                "Punjab University Business School"
+            ]
+        }
+    },
+    "South": {
+        "Tamil Nadu": {
+            "Coimbatore": [
+                "Amrita Vishwa Vidyapeetham"
+            ],
+            "Chennai": [
+                "Anna University",
+                "Great Lakes Institute of Management",
+                "Indian Institute of Technology Madras",
+                "Loyola Institute of Business Administration (LIBA)",
+                "SSN School of Management"
+            ],
+            "Tiruchirappalli": [
+                "National Institute of Technology Tiruchirappalli"
+            ],
+            "Vellore": [
+                "VIT Business School"
+            ]
+        },
+        "Karnataka": {
+            "Bengaluru": [
+                "Christ University",
+                "Jagdish Sheth School of Management (JAGSOM)",
+                "Prin. L.N. Welingkar Institute of Management Development and Research",
+                "RV Institute of Management",
+                "School of Business and Management, Christ (Deemed to be University)",
+                "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+                "Symbiosis Institute of Business Management (SIBM)"
+            ],
+            "Bangalore": [
+                "Indus Business Academy (IBA) Bangalore",
+                "St. Joseph's Institute of Management (SJIM)"
+            ],
+            "Mysuru": [
+                "Shri Dharmasthala Manjunatheshwara Institute for Management Development (SDMIMD)"
+            ],
+            "Manipal": [
+                "T. A. Pai Management Institute"
+            ]
+        },
+        "Telangana": {
+            "Hyderabad": [
+                "ICFAI Foundation for Higher Education",
+                "Institute of Public Enterprise (IPE)",
+                "National Institute of Agricultural Extension Management",
+                "School of Business, Woxsen University",
+                "Symbiosis Institute of Business Management"
+            ]
+        },
+        "Andhra Pradesh": {
+            "Sri City": [
+                "IFMR Graduate School of Business, Krea University"
+            ],
+            "Vaddeswaram": [
+                "Koneru Lakshmaiah Education Foundation University"
+            ]
+        },
+        "Kerala": {
+            "Kochi": [
+                "Rajagiri Business School"
+            ],
+            "Kozhikode": [
+                "School of Management Studies, National Institute of Technology Calicut"
+            ]
+        }
+    },
+    "West": {
+        "Madhya Pradesh": {
+            "Gwalior": [
+                "Atal Bihari Vajpayee Indian Institute of Information Technology and Management"
+            ]
+        },
+        "Maharashtra": {
+            "Pune": [
+                "Balaji Institute of Modern Management (BIMM)",
+                "FLAME University",
+                "International School of Business & Media (ISBM)",
+                "Pune University",
+                "Symbiosis Centre for Management & Human Resource Development (SCMHRD)",
+                "Symbiosis Institute of Business Management",
+                "Symbiosis Institute of Digital and Telecom Management",
+                "Symbiosis Institute of International Business (SIIB)"
+            ],
+            "Mumbai": [
+                "Chetana's Institute of Management and Research (CIMR)",
+                "Indian Institute of Technology (IIT) Bombay",
+                "Jamnalal Bajaj Institute of Management Studies (JBIMS)",
+                "K J Somaiya Institute of Management",
+                "National Institute of Industrial Engineering",
+                "Prin. L.N. Welingkar Institute of Management Development & Research",
+                "S.P. Jain Institute of Management & Research",
+                "SVKM's Narsee Monjee Institute of Management Studies",
+                "Sydenham Institute of Management Studies, Research & Entrepreneurship Education (SIMSREE)"
+            ],
+            "Nagpur": [
+                "Institute of Management Technology"
+            ],
+            "Navi Mumbai": [
+                "ITM Business School",
+                "SIES College of Management Studies"
+            ],
+            "Nashik": [
+                "Symbiosis Institute of Operations Management (SIOM)"
+            ]
+        },
+        "Goa": {
+            "Goa": [
+                "Goa Institute of Management (GIM)"
+            ]
+        },
+        "Gujarat": {
+            "Ahmedabad": [
+                "Institute of Management, Nirma University",
+                "MICA"
+            ],
+            "Anand": [
+                "Institute of Rural Management Anand"
+            ]
+        }
+    },
+    "East": {
+        "Jharkhand": {
+            "Dhanbad": [
+                "Indian Institute of Technology (Indian School of Mines)"
+            ],
+            "Jamshedpur": [
+                "XLRI-Xavier School of Management"
+            ]
+        },
+        "West Bengal": {
+            "Kharagpur": [
+                "Indian Institute of Technology Kharagpur"
+            ],
+            "Kolkata": [
+                "International Management Institute"
+            ],
+            "Murshidabad": [
+                "Management Development Institute (MDI)"
+            ]
+        },
+        "Odisha": {
+            "Bhubaneswar": [
+                "International Management Institute",
+                "Kalinga Institute of Industrial Technology",
+                "Siksha `O` Anusandhan",
+                "XIM University"
+            ]
+        }
+    }
+}

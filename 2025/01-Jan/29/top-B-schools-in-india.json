@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Aligarh Muslim University",
+        "location": "Aligarh",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Amity Business School, Amity University, Noida",
+        "location": "Noida",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Amity University",
+        "location": "Gautam Budh Nagar",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Amrita Vishwa Vidyapeetham",
+        "location": "Coimbatore",
+        "state": "Tamil Nadu",
+        "zone": "South"
+    },
+    {
+        "name": "Anna University",
+        "location": "Chennai",
+        "state": "Tamil Nadu",
+        "zone": "South"
+    },
+    {
+        "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+        "location": "Gwalior",
+        "state": "Madhya Pradesh",
+        "zone": "West"
+    },
+    {
+        "name": "Balaji Institute of Modern Management (BIMM)",
+        "location": "Pune",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Banaras Hindu University",
+        "location": "Varanasi",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Birla Institute of Management Technology",
+        "location": "Greater Noida",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "BML Munjal University",
+        "location": "Gurugram",
+        "state": "Haryana",
+        "zone": "North"
+    },
+    {
+        "name": "Chandigarh University",
+        "location": "Mohali",
+        "state": "Punjab",
+        "zone": "North"
+    },
+    {
+        "name": "Chetana's Institute of Management and Research (CIMR)",
+        "location": "Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Christ University",
+        "location": "Bengaluru",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "Department of Commerce, Delhi School of Economics, University of Delhi",
+        "location": "New Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "Department of Industrial and Management Engineering, IIT, Kanpur",
+        "location": "Kanpur",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Department of Management, BITS, Pilani",
+        "location": "Pilani",
+        "state": "Rajasthan",
+        "zone": "North"
+    },
+    {
+        "name": "DMS, Indian Institute of Technology (IIT) Kanpur",
+        "location": "Kanpur",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Faculty of Management Studies (FMS), University of Delhi",
+        "location": "New Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "FLAME University",
+        "location": "Pune",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Fore School of Management",
+        "location": "New Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "GNIOT Institute of Management Studies (GIMS)",
+        "location": "Greater Noida",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Goa Institute of Management (GIM)",
+        "location": "Goa",
+        "state": "Goa",
+        "zone": "West"
+    },
+    {
+        "name": "Graphic Era University",
+        "location": "Dehradun",
+        "state": "Uttarakhand",
+        "zone": "North"
+    },
+    {
+        "name": "Great Lakes Institute of Management",
+        "location": "Chennai",
+        "state": "Tamil Nadu",
+        "zone": "South"
+    },
+    {
+        "name": "ICFAI Foundation for Higher Education",
+        "location": "Hyderabad",
+        "state": "Telangana",
+        "zone": "South"
+    },
+    {
+        "name": "IFMR Graduate School of Business, Krea University",
+        "location": "Sri City",
+        "state": "Andhra Pradesh",
+        "zone": "South"
+    },
+    {
+        "name": "IILM Institute for Business and Management",
+        "location": "Gurugram",
+        "state": "Haryana",
+        "zone": "North"
+    },
+    {
+        "name": "Indian Institute of Foreign Trade",
+        "location": "New Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "Indian Institute of Forest Management (IIFM)",
+        "location": "Bhopal",
+        "state": "Madhya Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Indian Institute of Technology (IIT) Bombay",
+        "location": "Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Indian Institute of Technology (IIT) Delhi",
+        "location": "Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "Indian Institute of Technology (Indian School of Mines)",
+        "location": "Dhanbad",
+        "state": "Jharkhand",
+        "zone": "East"
+    },
+    {
+        "name": "Indian Institute of Technology Kanpur",
+        "location": "Kanpur",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Indian Institute of Technology Kharagpur",
+        "location": "Kharagpur",
+        "state": "West Bengal",
+        "zone": "East"
+    },
+    {
+        "name": "Indian Institute of Technology Madras",
+        "location": "Chennai",
+        "state": "Tamil Nadu",
+        "zone": "South"
+    },
+    {
+        "name": "Indian Institute of Technology Roorkee",
+        "location": "Roorkee",
+        "state": "Uttarakhand",
+        "zone": "North"
+    },
+    {
+        "name": "Indus Business Academy (IBA) Bangalore",
+        "location": "Bangalore",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "Institute of Management Studies, Banaras Hindu University",
+        "location": "Varanasi",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Institute of Management Studies",
+        "location": "Ghaziabad",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Institute of Management Technology (IMT)",
+        "location": "Ghaziabad",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Institute of Management Technology",
+        "location": "Nagpur",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Institute of Management, Nirma University",
+        "location": "Ahmedabad",
+        "state": "Gujarat",
+        "zone": "West"
+    },
+    {
+        "name": "Institute of Public Enterprise (IPE)",
+        "location": "Hyderabad",
+        "state": "Telangana",
+        "zone": "South"
+    },
+    {
+        "name": "Institute of Rural Management Anand",
+        "location": "Anand",
+        "state": "Gujarat",
+        "zone": "West"
+    },
+    {
+        "name": "International Management Institute",
+        "location": "New Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "International Management Institute",
+        "location": "Bhubaneswar",
+        "state": "Odisha",
+        "zone": "East"
+    },
+    {
+        "name": "International Management Institute",
+        "location": "Kolkata",
+        "state": "West Bengal",
+        "zone": "East"
+    },
+    {
+        "name": "International Management Institute (IMI)",
+        "location": "New Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "International School of Business & Media (ISBM)",
+        "location": "Pune",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "ITM Business School",
+        "location": "Navi Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Jagan Institute of Management Studies (JIMS)",
+        "location": "New Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "Jagdish Sheth School of Management (JAGSOM)",
+        "location": "Bengaluru",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "Jaipuria Institute of Management Lucknow",
+        "location": "Lucknow",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Jaipuria Institute of Management Noida",
+        "location": "Noida",
+        "state": "Uttar Pradesh",
+        "zone": "North"
+    },
+    {
+        "name": "Jamia Millia Islamia",
+        "location": "New Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "Jamnalal Bajaj Institute of Management Studies (JBIMS)",
+        "location": "Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "K J Somaiya Institute of Management",
+        "location": "Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Kalinga Institute of Industrial Technology",
+        "location": "Bhubaneswar",
+        "state": "Odisha",
+        "zone": "East"
+    },
+    {
+        "name": "Koneru Lakshmaiah Education Foundation University",
+        "location": "Vaddeswaram",
+        "state": "Andhra Pradesh",
+        "zone": "South"
+    },
+    {
+        "name": "Lal Bahadur Shastri Institute of Management",
+        "location": "New Delhi",
+        "state": "Delhi",
+        "zone": "North"
+    },
+    {
+        "name": "Lovely Professional University",
+        "location": "Phagwara",
+        "state": "Punjab",
+        "zone": "North"
+    },
+    {
+        "name": "Loyola Institute of Business Administration (LIBA)",
+        "location": "Chennai",
+        "state": "Tamil Nadu",
+        "zone": "South"
+    },
+    {
+        "name": "Management Development Institute",
+        "location": "Gurugram",
+        "state": "Haryana",
+        "zone": "North"
+    },
+    {
+        "name": "Management Development Institute (MDI)",
+        "location": "Murshidabad",
+        "state": "West Bengal",
+        "zone": "East"
+    },
+    {
+        "name": "MICA",
+        "location": "Ahmedabad",
+        "state": "Gujarat",
+        "zone": "West"
+    },
+    {
+        "name": "National Institute of Agricultural Extension Management",
+        "location": "Hyderabad",
+        "state": "Telangana",
+        "zone": "South"
+    },
+    {
+        "name": "National Institute of Industrial Engineering",
+        "location": "Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "National Institute of Technology Tiruchirappalli",
+        "location": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "zone": "South"
+    },
+    {
+        "name": "Prin. L.N. Welingkar Institute of Management Development & Research",
+        "location": "Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Prin. L.N. Welingkar Institute of Management Development and Research",
+        "location": "Bengaluru",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "Pune University",
+        "location": "Pune",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Punjab University Business School",
+        "location": "Chandigarh",
+        "state": "Chandigarh",
+        "zone": "North"
+    },
+    {
+        "name": "Rajagiri Business School",
+        "location": "Kochi",
+        "state": "Kerala",
+        "zone": "South"
+    },
+    {
+        "name": "RV Institute of Management",
+        "location": "Bengaluru",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "S.P. Jain Institute of Management & Research",
+        "location": "Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "School of Business and Management, Christ (Deemed to be University)",
+        "location": "Bengaluru",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "School of Business, Woxsen University",
+        "location": "Hyderabad",
+        "state": "Telangana",
+        "zone": "South"
+    },
+    {
+        "name": "School of Management Studies, National Institute of Technology Calicut",
+        "location": "Kozhikode",
+        "state": "Kerala",
+        "zone": "South"
+    },
+    {
+        "name": "Shri Dharmasthala Manjunatheshwara Institute for Management Development (SDMIMD)",
+        "location": "Mysuru",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "SIES College of Management Studies",
+        "location": "Navi Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Siksha `O` Anusandhan",
+        "location": "Bhubaneswar",
+        "state": "Odisha",
+        "zone": "East"
+    },
+    {
+        "name": "SOIL Institute of Management",
+        "location": "Gurgaon",
+        "state": "Haryana",
+        "zone": "North"
+    },
+    {
+        "name": "SSN School of Management",
+        "location": "Chennai",
+        "state": "Tamil Nadu",
+        "zone": "South"
+    },
+    {
+        "name": "St. Joseph's Institute of Management (SJIM)",
+        "location": "Bangalore",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "SVKM's Narsee Monjee Institute of Management Studies",
+        "location": "Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+        "location": "Bengaluru",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "Sydenham Institute of Management Studies, Research & Entrepreneurship Education (SIMSREE)",
+        "location": "Mumbai",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Symbiosis Centre for Management & Human Resource Development (SCMHRD)",
+        "location": "Pune",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Symbiosis Institute of Business Management",
+        "location": "Pune",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Symbiosis Institute of Business Management (SIBM)",
+        "location": "Bengaluru",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "Symbiosis Institute of Business Management",
+        "location": "Hyderabad",
+        "state": "Telangana",
+        "zone": "South"
+    },
+    {
+        "name": "Symbiosis Institute of Digital and Telecom Management",
+        "location": "Pune",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Symbiosis Institute of International Business (SIIB)",
+        "location": "Pune",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "Symbiosis Institute of Operations Management (SIOM)",
+        "location": "Nashik",
+        "state": "Maharashtra",
+        "zone": "West"
+    },
+    {
+        "name": "T. A. Pai Management Institute",
+        "location": "Manipal",
+        "state": "Karnataka",
+        "zone": "South"
+    },
+    {
+        "name": "Thapar Institute of Engineering and Technology",
+        "location": "Patiala",
+        "state": "Punjab",
+        "zone": "North"
+    },
+    {
+        "name": "UPES",
+        "location": "Dehradun",
+        "state": "Uttarakhand",
+        "zone": "North"
+    },
+    {
+        "name": "VIT Business School",
+        "location": "Vellore",
+        "state": "Tamil Nadu",
+        "zone": "South"
+    },
+    {
+        "name": "XIM University",
+        "location": "Bhubaneswar",
+        "state": "Odisha",
+        "zone": "East"
+    },
+    {
+        "name": "XLRI-Xavier School of Management",
+        "location": "Jamshedpur",
+        "state": "Jharkhand",
+        "zone": "East"
+    }
+]
