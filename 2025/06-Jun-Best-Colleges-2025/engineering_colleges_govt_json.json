@@ -1,0 +1,445 @@
+{
+  "source": "India Today Best Colleges 2025 - Engineering (Government)",
+  "rankings": {
+    "top_10_emerging_colleges": {
+      "description": "Highest scoring colleges among government colleges set up in and after 2000",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Indian Institute of Technology Gandhinagar (IIT Gandhinagar)",
+          "city": "Gandhinagar"
+        },
+        {
+          "rank": 2,
+          "name": "Indian Institute of Technology Patna (IIT Patna)",
+          "city": "Patna"
+        },
+        {
+          "rank": 3,
+          "name": "Indian Institute of Information Technology (IIIT Allahabad)",
+          "city": "Prayagraj"
+        },
+        {
+          "rank": 4,
+          "name": "Indian Institute of Technology Mandi (IIT Mandi)",
+          "city": "Mandi"
+        },
+        {
+          "rank": 5,
+          "name": "Indraprastha Institute of Information Technology Delhi",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 6,
+          "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 7,
+          "name": "National Institute of Technology Delhi",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 8,
+          "name": "National Institute of Technology, Uttarakhand",
+          "city": "Srinagar, Pauri Garhwal"
+        },
+        {
+          "rank": 9,
+          "name": "Indian Institute of Information Technology Bhagalpur",
+          "city": "Bhagalpur"
+        },
+        {
+          "rank": 10,
+          "name": "National Institute of Technology Puducherry",
+          "city": "Karaikal"
+        }
+      ]
+    },
+    "regional_rankings": {
+      "east": [
+        {
+          "rank": 1,
+          "name": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
+          "city": "Kharagpur"
+        },
+        {
+          "rank": 2,
+          "name": "Indian Institute of Technology Guwahati (IIT Guwahati)",
+          "city": "Guwahati"
+        },
+        {
+          "rank": 3,
+          "name": "Indian Institute of Technology Patna (IIT Patna)",
+          "city": "Patna"
+        }
+      ],
+      "north": [
+        {
+          "rank": 1,
+          "name": "Indian Institute of Technology Delhi (IIT Delhi)",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "name": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+          "city": "Kanpur"
+        },
+        {
+          "rank": 3,
+          "name": "Indian Institute of Technology Roorkee (IIT Roorkee)",
+          "city": "Roorkee"
+        }
+      ],
+      "west": [
+        {
+          "rank": 1,
+          "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 2,
+          "name": "Indian Institute of Technology Gandhinagar (IIT Gandhinagar)",
+          "city": "Gandhinagar"
+        },
+        {
+          "rank": 3,
+          "name": "COEP Technological University",
+          "city": "Pune"
+        }
+      ],
+      "south": [
+        {
+          "rank": 1,
+          "name": "Govt. Model Engineering College",
+          "city": "Kochi"
+        },
+        {
+          "rank": 2,
+          "name": "National Institute of Technology Puducherry",
+          "city": "Karaikal"
+        },
+        {
+          "rank": 3,
+          "name": "Indian Institute of Information Technology, Design and Manufacturing, Kurnool",
+          "city": "Kurnool"
+        }
+      ]
+    },
+    "best_placement_record": {
+      "description": "Top 10 colleges with best placement record",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+          "city": "Kanpur",
+          "average_salary": "₹25,00,000"
+        },
+        {
+          "rank": 2,
+          "name": "Indian Institute of Information Technology (IIIT Allahabad)",
+          "city": "Prayagraj",
+          "average_salary": "₹25,70,000"
+        },
+        {
+          "rank": 3,
+          "name": "Indian Institute of Technology Guwahati (IIT Guwahati)",
+          "city": "Guwahati",
+          "average_salary": "₹25,75,000"
+        },
+        {
+          "rank": 4,
+          "name": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
+          "city": "Kharagpur",
+          "average_salary": "₹23,01,653"
+        },
+        {
+          "rank": 4,
+          "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+          "city": "Mumbai",
+          "average_salary": "₹23,50,000"
+        },
+        {
+          "rank": 6,
+          "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+          "city": "New Delhi",
+          "average_salary": "₹22,36,000"
+        },
+        {
+          "rank": 7,
+          "name": "Indraprastha Institute of Information Technology Delhi",
+          "city": "New Delhi",
+          "average_salary": "₹22,36,000"
+        },
+        {
+          "rank": 8,
+          "name": "Indian Institute of Technology Mandi (IIT Mandi)",
+          "city": "Mandi",
+          "average_salary": "₹22,00,000"
+        },
+        {
+          "rank": 9,
+          "name": "Indian Institute of Technology Roorkee (IIT Roorkee)",
+          "city": "Roorkee",
+          "average_salary": "₹20,90,000"
+        },
+        {
+          "rank": 10,
+          "name": "Indian Institute of Technology Delhi (IIT Delhi)",
+          "city": "New Delhi",
+          "average_salary": "₹19,66,731"
+        }
+      ]
+    },
+    "lowest_fees": {
+      "description": "Top 10 colleges with lowest fees",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Zakir Husain College of Engineering & Technology",
+          "city": "Aligarh",
+          "course_fee": "₹33,570"
+        },
+        {
+          "rank": 2,
+          "name": "COEP Technological University",
+          "city": "Pune",
+          "course_fee": "₹1,00,750"
+        },
+        {
+          "rank": 3,
+          "name": "Govt. Model Engineering College, Kochi",
+          "city": "Kochi",
+          "course_fee": "₹2,15,000"
+        },
+        {
+          "rank": 4,
+          "name": "Rajkiya Engineering College, Kannauj",
+          "city": "Kannauj",
+          "course_fee": "₹2,22,000"
+        },
+        {
+          "rank": 5,
+          "name": "Mahatma Jyotiba Phule Rohilkhand University",
+          "city": "Bareilly",
+          "course_fee": "₹3,00,000"
+        },
+        {
+          "rank": 6,
+          "name": "Delhi Technological University (DTU)",
+          "city": "New Delhi",
+          "course_fee": "₹4,50,000"
+        },
+        {
+          "rank": 7,
+          "name": "Madan Mohan Malaviya University of Technology",
+          "city": "Gorakhpur",
+          "course_fee": "₹5,26,000"
+        },
+        {
+          "rank": 8,
+          "name": "Harcourt Butler Technical University",
+          "city": "Kanpur",
+          "course_fee": "₹5,40,000"
+        },
+        {
+          "rank": 9,
+          "name": "National Institute of Technology (NIT) Puducherry",
+          "city": "Karaikal",
+          "course_fee": "₹5,44,550"
+        },
+        {
+          "rank": 10,
+          "name": "National Institute of Technology (NIT) Srinagar",
+          "city": "Srinagar",
+          "course_fee": "₹5,54,000"
+        }
+      ]
+    },
+    "best_value_for_money": {
+      "description": "Top 10 colleges with best value for money (ROI based on average annual salary/total course fees)",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Zakir Husain College of Engineering & Technology",
+          "city": "Aligarh",
+          "roi": "20.67"
+        },
+        {
+          "rank": 2,
+          "name": "COEP Technological University",
+          "city": "Pune",
+          "roi": "4.49"
+        },
+        {
+          "rank": 3,
+          "name": "Govt. Model Engineering College, Kochi",
+          "city": "Kochi",
+          "roi": "3.72"
+        },
+        {
+          "rank": 4,
+          "name": "Delhi Technological University (DTU)",
+          "city": "New Delhi",
+          "roi": "3.71"
+        },
+        {
+          "rank": 5,
+          "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+          "city": "New Delhi",
+          "roi": "3.67"
+        },
+        {
+          "rank": 6,
+          "name": "Indian Institute of Information Technology (IIIT Allahabad)",
+          "city": "Prayagraj",
+          "roi": "3.05"
+        },
+        {
+          "rank": 7,
+          "name": "Indian Institute of Technology Guwahati (IIT Guwahati)",
+          "city": "Guwahati",
+          "roi": "2.99"
+        },
+        {
+          "rank": 8,
+          "name": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+          "city": "Kanpur",
+          "roi": "2.71"
+        },
+        {
+          "rank": 9,
+          "name": "Indian Institute of Technology Mandi (IIT Mandi)",
+          "city": "Mandi",
+          "roi": "2.55"
+        },
+        {
+          "rank": 10,
+          "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+          "city": "Mumbai",
+          "roi": "2.55"
+        }
+      ]
+    },
+    "top_gainers": {
+      "description": "Top 5 gainers among first 100 (overall) - Colleges that have made the biggest leaps since last year",
+      "colleges": [
+        {
+          "college": "Pimpri Chinchwad College of Engineering",
+          "city": "Pune",
+          "rank_2025": 66,
+          "rank_2024": 97
+        },
+        {
+          "college": "Vignan Institute of Technology and Science",
+          "city": "Hyderabad",
+          "rank_2025": 60,
+          "rank_2024": 100
+        },
+        {
+          "college": "Ajay Kumar Garg Engineering College",
+          "city": "Ghaziabad",
+          "rank_2025": 67,
+          "rank_2024": 77
+        },
+        {
+          "college": "Institute of Engineering and Technology, JK Lakshmipat University",
+          "city": "Jaipur",
+          "rank_2025": 62,
+          "rank_2024": 92
+        },
+        {
+          "college": "Amity School of Engineering & Technology, Gurgaon",
+          "city": "Gurugram",
+          "rank_2025": 64,
+          "rank_2024": 94
+        }
+      ]
+    },
+    "top_10_overall_2025": {
+      "description": "Top 10 colleges 2025 overall ranking",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+          "city": "Mumbai",
+          "change": "↑"
+        },
+        {
+          "rank": 2,
+          "name": "Indian Institute of Technology Delhi (IIT Delhi)",
+          "city": "New Delhi",
+          "change": "↓"
+        },
+        {
+          "rank": 3,
+          "name": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+          "city": "Kanpur",
+          "change": "↔"
+        },
+        {
+          "rank": 4,
+          "name": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
+          "city": "Kharagpur",
+          "change": "↑"
+        },
+        {
+          "rank": 5,
+          "name": "Indian Institute of Technology Guwahati (IIT Guwahati)",
+          "city": "Guwahati",
+          "change": "↑"
+        },
+        {
+          "rank": 6,
+          "name": "Indian Institute of Technology Roorkee (IIT Roorkee)",
+          "city": "Roorkee",
+          "change": "↓"
+        },
+        {
+          "rank": 7,
+          "name": "Netaji Subhas University of Technology",
+          "city": "New Delhi",
+          "change": "↔"
+        },
+        {
+          "rank": 8,
+          "name": "Indian Institute of Technology Gandhinagar (IIT Gandhinagar)",
+          "city": "Gandhinagar",
+          "change": "↑"
+        },
+        {
+          "rank": 9,
+          "name": "Delhi Technological University (DTU)",
+          "city": "New Delhi",
+          "change": "↓"
+        },
+        {
+          "rank": 10,
+          "name": "Indian Institute of Technology Patna (IIT Patna)",
+          "city": "Patna",
+          "change": "↑"
+        }
+      ]
+    },
+    "new_entrants_top_25": {
+      "description": "New entrants among top 25 (overall) - Colleges that feature among the top 25 for the first time",
+      "colleges": [
+        {
+          "rank": 25,
+          "name": "B.M.S. College of Engineering",
+          "city": "Bengaluru"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "survey_year": "2025",
+    "publication": "India Today",
+    "category": "Engineering (Government)",
+    "notes": {
+      "fees": "Course fee = Tuition fee + other fees",
+      "roi": "ROI (Return on Investment) is calculated based on average annual salary / total course fees (entire duration)",
+      "placement_salary": "Average annual salary data"
+    }
+  }
+}

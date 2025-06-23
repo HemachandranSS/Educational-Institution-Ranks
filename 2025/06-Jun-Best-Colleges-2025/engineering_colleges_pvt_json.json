@@ -1,0 +1,521 @@
+{
+  "survey_info": {
+    "title": "Best Colleges of India 2025 - Engineering (Private)",
+    "year": 2025,
+    "source": "India Today",
+    "website": "https://bestcolleges.indiatoday.in/"
+  },
+  "rankings": {
+    "top_10_emerging_private_colleges": {
+      "description": "Highest scoring among the private colleges set up in and after 2000",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "International Institute of Information Technology, Hyderabad",
+          "city": "Hyderabad"
+        },
+        {
+          "rank": 2,
+          "name": "Symbiosis Institute of Technology",
+          "city": "Pune"
+        },
+        {
+          "rank": 3,
+          "name": "Galgotias College of Engineering and Technology",
+          "city": "Greater Noida"
+        },
+        {
+          "rank": 4,
+          "name": "Maharaja Surajmal Institute of Technology",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "name": "Maharaja Agrasen Institute of Technology",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 6,
+          "name": "Sikkim Manipal Institute of Technology",
+          "city": "Majitar"
+        },
+        {
+          "rank": 7,
+          "name": "Amity School of Engineering and Technology, Noida",
+          "city": "Noida"
+        },
+        {
+          "rank": 8,
+          "name": "The LNM Institute of Information Technology",
+          "city": "Jaipur"
+        },
+        {
+          "rank": 9,
+          "name": "Faculty of Engineering, Manipal University, Jaipur",
+          "city": "Jaipur"
+        },
+        {
+          "rank": 10,
+          "name": "Jaypee Institute of Information Technology",
+          "city": "Noida"
+        }
+      ]
+    },
+    "top_5_region_wise": {
+      "east": [
+        {
+          "rank": 1,
+          "name": "Birla Institute of Technology Mesra (BIT Mesra)",
+          "city": "Ranchi"
+        },
+        {
+          "rank": 2,
+          "name": "Sikkim Manipal Institute of Technology",
+          "city": "Majitar"
+        },
+        {
+          "rank": 3,
+          "name": "Rungta College of Engineering and Technology",
+          "city": "Bhilai"
+        },
+        {
+          "rank": 4,
+          "name": "Institute of Engineering & Management, Kolkata",
+          "city": "Kolkata"
+        },
+        {
+          "rank": 5,
+          "name": "Amity School of Engineering & Technology, Kolkata",
+          "city": "Kolkata"
+        }
+      ],
+      "north": [
+        {
+          "rank": 1,
+          "name": "Birla Institute of Technology and Science Pilani (BITS Pilani)",
+          "city": "Pilani"
+        },
+        {
+          "rank": 2,
+          "name": "Galgotias College of Engineering and Technology",
+          "city": "Greater Noida"
+        },
+        {
+          "rank": 3,
+          "name": "Maharaja Surajmal Institute of Technology",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "name": "Maharaja Agrasen Institute of Technology",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "name": "Amity School of Engineering and Technology, Noida",
+          "city": "Noida"
+        }
+      ],
+      "south": [
+        {
+          "rank": 1,
+          "name": "International Institute of Information Technology, Hyderabad",
+          "city": "Hyderabad"
+        },
+        {
+          "rank": 2,
+          "name": "Manipal Institute of Technology (MIT)",
+          "city": "Manipal"
+        },
+        {
+          "rank": 3,
+          "name": "M.S. Ramaiah Institute of Technology",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 4,
+          "name": "B.M.S. College of Engineering",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 5,
+          "name": "PSG College of Technology",
+          "city": "Coimbatore"
+        }
+      ],
+      "west": [
+        {
+          "rank": 1,
+          "name": "SVKM's Dwarkadas J. Sanghvi College of Engineering",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 2,
+          "name": "Symbiosis Institute of Technology",
+          "city": "Pune"
+        },
+        {
+          "rank": 3,
+          "name": "Institute of Technology, Nirma University",
+          "city": "Ahmedabad"
+        },
+        {
+          "rank": 4,
+          "name": "Bharati Vidyapeeth (Deemed to be University) College of Engineering",
+          "city": "Pune"
+        },
+        {
+          "rank": 5,
+          "name": "K.J. Somaiya College of Engineering",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    "best_value_for_money": {
+      "description": "ROI (return on investment) is calculated based on average annual salary/total course fees (entire duration)",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "TKM College of Engineering",
+          "city": "Kollam",
+          "roi": 6.37
+        },
+        {
+          "rank": 2,
+          "name": "Ravindra College of Engineering for Women",
+          "city": "Kurnool",
+          "roi": 3.00
+        },
+        {
+          "rank": 3,
+          "name": "Manakula Vinayagar Institute of Technology",
+          "city": "Puducherry",
+          "roi": 2.65
+        },
+        {
+          "rank": 4,
+          "name": "Sri Krishna College of Engineering & Technology",
+          "city": "Coimbatore",
+          "roi": 2.50
+        },
+        {
+          "rank": 5,
+          "name": "B.M.S. College of Engineering",
+          "city": "Bengaluru",
+          "roi": 2.39
+        },
+        {
+          "rank": 6,
+          "name": "Chandigarh Engineering College-CGC Landran",
+          "city": "Mohali",
+          "roi": 2.35
+        },
+        {
+          "rank": 7,
+          "name": "Sri Venkateswara College of Engineering",
+          "city": "Tirupati",
+          "roi": 2.15
+        },
+        {
+          "rank": 8,
+          "name": "International Institute of Information Technology, Hyderabad",
+          "city": "Hyderabad",
+          "roi": 2.12
+        },
+        {
+          "rank": 9,
+          "name": "Thiagarajar College of Engineering",
+          "city": "Madurai",
+          "roi": 2.06
+        },
+        {
+          "rank": 10,
+          "name": "ISGM College of Engineering",
+          "city": "Pune",
+          "roi": 1.99
+        }
+      ]
+    },
+    "best_placement_record": {
+      "description": "Colleges with highest average annual salary",
+      "note": "As per the data given by college",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "International Institute of Information Technology, Hyderabad",
+          "city": "Hyderabad",
+          "average_annual_salary": "₹29,40,000"
+        },
+        {
+          "rank": 2,
+          "name": "Birla Institute of Technology and Science Pilani (BITS Pilani)",
+          "city": "Pilani",
+          "average_annual_salary": "₹21,37,410"
+        },
+        {
+          "rank": 3,
+          "name": "MKSSS's Cummins College of Engineering for Women",
+          "city": "Pune",
+          "average_annual_salary": "₹12,54,000"
+        },
+        {
+          "rank": 4,
+          "name": "Birla Institute of Technology Mesra (BIT Mesra)",
+          "city": "Ranchi",
+          "average_annual_salary": "₹12,00,000"
+        },
+        {
+          "rank": 4,
+          "name": "SVKM's Dwarkadas J. Sanghvi College of Engineering",
+          "city": "Mumbai",
+          "average_annual_salary": "₹12,00,000"
+        },
+        {
+          "rank": 6,
+          "name": "Faculty of Engineering, Christ (Deemed to be University)",
+          "city": "Bengaluru",
+          "average_annual_salary": "₹11,50,000"
+        },
+        {
+          "rank": 7,
+          "name": "Symbiosis Institute of Technology",
+          "city": "Pune",
+          "average_annual_salary": "₹11,00,000"
+        },
+        {
+          "rank": 7,
+          "name": "Army Institute of Technology",
+          "city": "Pune",
+          "average_annual_salary": "₹11,00,000"
+        },
+        {
+          "rank": 9,
+          "name": "The LNM Institute of Information Technology",
+          "city": "Jaipur",
+          "average_annual_salary": "₹10,96,000"
+        },
+        {
+          "rank": 10,
+          "name": "B.M.S. College of Engineering",
+          "city": "Bengaluru",
+          "average_annual_salary": "₹10,00,000"
+        }
+      ]
+    },
+    "lowest_fees": {
+      "description": "Colleges with lowest course fees for entire duration",
+      "note": "Course fees = Tuition fees + other fees",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "TKM College of Engineering",
+          "city": "Kollam",
+          "course_fees": "₹76,150"
+        },
+        {
+          "rank": 2,
+          "name": "Ravindra College of Engineering for Women",
+          "city": "Kurnool",
+          "course_fees": "₹1,40,000"
+        },
+        {
+          "rank": 3,
+          "name": "Manakula Vinayagar Institute of Technology",
+          "city": "Puducherry",
+          "course_fees": "₹1,70,000"
+        },
+        {
+          "rank": 4,
+          "name": "Mailam Engineering College",
+          "city": "Villupuram",
+          "course_fees": "₹2,00,000"
+        },
+        {
+          "rank": 5,
+          "name": "Dr. C.V. Raman University, Bilaspur",
+          "city": "Bilaspur",
+          "course_fees": "₹2,02,800"
+        },
+        {
+          "rank": 6,
+          "name": "St. Joseph College of Engineering",
+          "city": "Chennai",
+          "course_fees": "₹2,15,000"
+        },
+        {
+          "rank": 6,
+          "name": "Christ the King Engineering College",
+          "city": "Coimbatore",
+          "course_fees": "₹2,15,000"
+        },
+        {
+          "rank": 8,
+          "name": "Nehru Institute of Engineering and Technology",
+          "city": "Coimbatore",
+          "course_fees": "₹2,16,000"
+        },
+        {
+          "rank": 9,
+          "name": "Sethu Institute of Technology",
+          "city": "Virudhunagar",
+          "course_fees": "₹2,20,000"
+        },
+        {
+          "rank": 10,
+          "name": "Erode Sengunthar Engineering College",
+          "city": "Erode",
+          "course_fees": "₹2,26,000"
+        }
+      ]
+    },
+    "new_entrants_top_25": {
+      "description": "Colleges that feature among the top 25 for the first time",
+      "colleges": [
+        {
+          "rank_2025": 23,
+          "name": "Army Institute of Technology",
+          "city": "Pune"
+        },
+        {
+          "rank_2025": 24,
+          "name": "School of Engineering & Technology, Galgotias University",
+          "city": "Greater Noida"
+        },
+        {
+          "rank_2025": 25,
+          "name": "Rungta College of Engineering and Technology",
+          "city": "Bhilai"
+        }
+      ]
+    },
+    "top_gainers_first_50": {
+      "description": "Colleges that have made the biggest leaps since last year in ranking among private colleges",
+      "colleges": [
+        {
+          "name": "Ajay Kumar Garg Engineering College",
+          "city": "Ghaziabad",
+          "rank_2024": 38,
+          "rank_2025": 49
+        },
+        {
+          "name": "Sri Venkateswara College of Engineering",
+          "city": "Tirupati",
+          "rank_2024": 42,
+          "rank_2025": 51
+        },
+        {
+          "name": "Sona College of Technology",
+          "city": "Salem",
+          "rank_2024": 46,
+          "rank_2025": 55
+        },
+        {
+          "name": "School of Engineering & Technology, Manav Rachna International Institute of Research & Studies",
+          "city": "Faridabad",
+          "rank_2024": 46,
+          "rank_2025": 54
+        },
+        {
+          "name": "Hindustan Institute of Technology & Science (Deemed to be University)",
+          "city": "Chennai",
+          "rank_2024": 36,
+          "rank_2025": 43
+        }
+      ]
+    },
+    "overall_top_10_2025": {
+      "description": "Top 10 Private Engineering Colleges 2025",
+      "colleges": [
+        {
+          "rank_2025": 1,
+          "rank_2024": 1,
+          "name": "Birla Institute of Technology and Science Pilani (BITS Pilani)",
+          "city": "Pilani"
+        },
+        {
+          "rank_2025": 2,
+          "rank_2024": 2,
+          "name": "International Institute of Information Technology, Hyderabad",
+          "city": "Hyderabad"
+        },
+        {
+          "rank_2025": 3,
+          "rank_2024": 3,
+          "name": "Birla Institute of Technology Mesra (BIT Mesra)",
+          "city": "Ranchi"
+        },
+        {
+          "rank_2025": 4,
+          "rank_2024": 4,
+          "name": "Manipal Institute of Technology (MIT)",
+          "city": "Manipal"
+        },
+        {
+          "rank_2025": 5,
+          "rank_2024": 5,
+          "name": "M.S. Ramaiah Institute of Technology",
+          "city": "Bengaluru"
+        },
+        {
+          "rank_2025": 6,
+          "rank_2024": 6,
+          "name": "B.M.S. College of Engineering",
+          "city": "Bengaluru"
+        },
+        {
+          "rank_2025": 7,
+          "rank_2024": 7,
+          "name": "SVKM's Dwarkadas J. Sanghvi College of Engineering",
+          "city": "Mumbai"
+        },
+        {
+          "rank_2025": 8,
+          "rank_2024": 9,
+          "name": "Symbiosis Institute of Technology",
+          "city": "Pune"
+        },
+        {
+          "rank_2025": 9,
+          "rank_2024": 10,
+          "name": "PSG College of Technology",
+          "city": "Coimbatore"
+        },
+        {
+          "rank_2025": 10,
+          "rank_2024": 11,
+          "name": "Galgotias College of Engineering and Technology",
+          "city": "Greater Noida"
+        }
+      ]
+    }
+  },
+  "featured_college_highlights": {
+    "bits_pilani": {
+      "title": "Technically Perfect",
+      "description": "A merit-based focus on research and the latest innovations, and its position as a student start-up hub, keep BITS Pilani firmly planted at the top",
+      "author": "Sonal Khetarpal",
+      "reasons_why_best": [
+        {
+          "point": 1,
+          "description": "BITS Pilani's Practice School gets students industry exposure very early on. They also get two paid internships—in the second and fourth year—which adds up to almost eight months of industry exposure built into the curriculum. At the heart of this is the 125,000-strong alumni network."
+        },
+        {
+          "point": 2,
+          "description": "Last year, BITS raised Rs 180 crore from the government and industry for research, up from Rs 98 lakh in 2020. In 2024 alone, they filed 179 patents. Many of these are start-up licensed, a key reason for its standing, not only to the IITs."
+        },
+        {
+          "point": 3,
+          "description": "The start-ups incubator offers constant handholding to students. The alumni-supported angel investor network BIT SPARK helps with global mentorship, funding and market access. Student start-ups incubated at BITS have touched $1 billion valuation."
+        },
+        {
+          "point": 4,
+          "description": "Students are admitted purely on merit, with no management quotas or lateral entries. 99 per cent students get placed."
+        },
+        {
+          "point": 5,
+          "description": "New courses include MSc in Semiconductor and Nanoscience and BTechs in Environmental and Sustainability Engineering."
+        }
+      ]
+    }
+  }
+}

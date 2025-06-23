@@ -1,0 +1,682 @@
+{
+  "science_colleges_rankings": {
+    "source": "India Today Best Colleges of India 2025 - Science",
+    "website": "https://bestcolleges.indiatoday.in/",
+    "categories": {
+      "top_colleges_city_wise": {
+        "delhi": [
+          {
+            "rank": 1,
+            "college": "Hindu College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 2,
+            "college": "Miranda House",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 3,
+            "college": "Hansraj College",
+            "city": "New Delhi"
+          }
+        ],
+        "mumbai": [
+          {
+            "rank": 1,
+            "college": "SVKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 2,
+            "college": "St. Xavier's College (Autonomous), Mumbai",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 3,
+            "college": "Kishinchand Chellaram College",
+            "city": "Mumbai"
+          }
+        ],
+        "chennai": [
+          {
+            "rank": 1,
+            "college": "Loyola College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 2,
+            "college": "Madras Christian College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 3,
+            "college": "Stella Maris College (Autonomous)",
+            "city": "Chennai"
+          }
+        ],
+        "chandigarh": [
+          {
+            "rank": 1,
+            "college": "Goswami Ganesh Dutta Sanatan Dharma College",
+            "city": "Chandigarh"
+          },
+          {
+            "rank": 2,
+            "college": "Mehr Chand Mahajan DAV College for Women",
+            "city": "Chandigarh"
+          },
+          {
+            "rank": 3,
+            "college": "Post Graduate Government College for Girls",
+            "city": "Chandigarh"
+          }
+        ],
+        "hyderabad": [
+          {
+            "rank": 1,
+            "college": "St. Francis College for Women, Begumpet",
+            "city": "Hyderabad"
+          },
+          {
+            "rank": 2,
+            "college": "St. Ann's College for Women (Autonomous)",
+            "city": "Hyderabad"
+          },
+          {
+            "rank": 3,
+            "college": "St. Joseph's Degree & PG College",
+            "city": "Hyderabad"
+          }
+        ],
+        "pune": [
+          {
+            "rank": 1,
+            "college": "St. Mira's College for Girls",
+            "city": "Pune"
+          },
+          {
+            "rank": 2,
+            "college": "Indira College of Commerce and Science",
+            "city": "Pune"
+          },
+          {
+            "rank": 3,
+            "college": "MIT Arts, Commerce & Science College, Alandi",
+            "city": "Pune"
+          }
+        ],
+        "jaipur": [
+          {
+            "rank": 1,
+            "college": "S.S. Jain Subodh P.G. College (Autonomous)",
+            "city": "Jaipur"
+          },
+          {
+            "rank": 2,
+            "college": "St. Wilfred's P.G. College",
+            "city": "Jaipur"
+          },
+          {
+            "rank": 3,
+            "college": "Poddar International College",
+            "city": "Jaipur"
+          }
+        ],
+        "coimbatore": [
+          {
+            "rank": 1,
+            "college": "PSG College of Arts & Science",
+            "city": "Coimbatore"
+          },
+          {
+            "rank": 2,
+            "college": "Dr. N.G.P. Arts and Science College (Autonomous)",
+            "city": "Coimbatore"
+          },
+          {
+            "rank": 3,
+            "college": "Sri Ramakrishna College of Arts & Science",
+            "city": "Coimbatore"
+          }
+        ],
+        "bengaluru": [
+          {
+            "rank": 1,
+            "college": "St Joseph's University",
+            "city": "Bengaluru"
+          },
+          {
+            "rank": 2,
+            "college": "Department of Sciences, Christ (Deemed to be University)",
+            "city": "Bengaluru"
+          },
+          {
+            "rank": 3,
+            "college": "Mount Carmel College (Autonomous)",
+            "city": "Bengaluru"
+          }
+        ]
+      },
+      "top_10_overall_2025": [
+        {
+          "rank": 1,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Miranda House",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "Hansraj College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "college": "Kirori Mal College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "college": "Loyola College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 6,
+          "college": "Madras Christian College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 7,
+          "college": "Sri Venkateswara College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 8,
+          "college": "St Joseph's University",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 9,
+          "college": "Stella Maris College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 10,
+          "college": "Department of Sciences, Christ (Deemed to be University)",
+          "city": "Bengaluru"
+        }
+      ],
+      "subject_wise_rankings": {
+        "chemistry": [
+          {
+            "rank": 1,
+            "college": "Hindu College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 2,
+            "college": "Miranda House",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 3,
+            "college": "Loyola College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 4,
+            "college": "SVKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 5,
+            "college": "Sri Venkateswara College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 6,
+            "college": "Ramakrishna Mission Vivekananda Centenary College",
+            "city": "Kolkata"
+          },
+          {
+            "rank": 7,
+            "college": "Madras Christian College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 8,
+            "college": "Hansraj College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 9,
+            "college": "Kirori Mal College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 10,
+            "college": "Women's Christian College",
+            "city": "Chennai"
+          }
+        ],
+        "botany": [
+          {
+            "rank": 1,
+            "college": "Hindu College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 2,
+            "college": "Miranda House",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 3,
+            "college": "Hansraj College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 4,
+            "college": "Madras Christian College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 5,
+            "college": "Ramakrishna Mission Vivekananda Centenary College",
+            "city": "Kolkata"
+          },
+          {
+            "rank": 6,
+            "college": "Kirori Mal College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 7,
+            "college": "Daulat Ram College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 8,
+            "college": "SVKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 9,
+            "college": "Ramjas College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 10,
+            "college": "Deen Dayal Upadhyaya College",
+            "city": "New Delhi"
+          }
+        ],
+        "physics": [
+          {
+            "rank": 1,
+            "college": "Miranda House",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 2,
+            "college": "Hindu College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 3,
+            "college": "Madras Christian College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 4,
+            "college": "Ramakrishna Mission Vivekananda Centenary College",
+            "city": "Kolkata"
+          },
+          {
+            "rank": 5,
+            "college": "SVKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 6,
+            "college": "Hansraj College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 7,
+            "college": "Loyola College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 8,
+            "college": "Women's Christian College",
+            "city": "Chennai"
+          },
+          {
+            "rank": 9,
+            "college": "Kirori Mal College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 10,
+            "college": "Ramjas College",
+            "city": "New Delhi"
+          }
+        ],
+        "zoology": [
+          {
+            "rank": 1,
+            "college": "Hindu College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 2,
+            "college": "Miranda House",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 3,
+            "college": "Hansraj College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 4,
+            "college": "Madras Christian College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 5,
+            "college": "Kirori Mal College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 6,
+            "college": "SVKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 7,
+            "college": "Loyola College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 8,
+            "college": "Stella Maris College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 9,
+            "college": "Women's Christian College",
+            "city": "Chennai"
+          },
+          {
+            "rank": 10,
+            "college": "Ramakrishna Mission Vivekananda Centenary College",
+            "city": "Kolkata"
+          }
+        ]
+      },
+      "region_wise_top_5": {
+        "east": [
+          {
+            "rank": 1,
+            "college": "Ramakrishna Mission Vivekananda Centenary College",
+            "city": "Kolkata"
+          },
+          {
+            "rank": 2,
+            "college": "Anugrah Narayan (A.N.) College",
+            "city": "Patna"
+          },
+          {
+            "rank": 3,
+            "college": "Patna Women's College (Autonomous)",
+            "city": "Patna"
+          },
+          {
+            "rank": 4,
+            "college": "J.D. Birla Institute",
+            "city": "Kolkata"
+          },
+          {
+            "rank": 5,
+            "college": "Lady Brabourne College",
+            "city": "Kolkata"
+          }
+        ],
+        "north": [
+          {
+            "rank": 1,
+            "college": "Hindu College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 2,
+            "college": "Miranda House",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 3,
+            "college": "Hansraj College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 4,
+            "college": "Kirori Mal College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 5,
+            "college": "Sri Venkateswara College",
+            "city": "New Delhi"
+          }
+        ],
+        "south": [
+          {
+            "rank": 1,
+            "college": "Loyola College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 2,
+            "college": "Madras Christian College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 3,
+            "college": "St Joseph's University",
+            "city": "Bengaluru"
+          },
+          {
+            "rank": 4,
+            "college": "Stella Maris College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 5,
+            "college": "Department of Sciences, Christ (Deemed to be University)",
+            "city": "Bengaluru"
+          }
+        ],
+        "west": [
+          {
+            "rank": 1,
+            "college": "SVKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 2,
+            "college": "St. Xavier's College (Autonomous), Mumbai",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 3,
+            "college": "Kishinchand Chellaram College",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 4,
+            "college": "Sophia College for Women (Autonomous)",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 5,
+            "college": "B.K. Birla College of Arts, Science & Commerce (Autonomous), Kalyan",
+            "city": "Kalyan"
+          }
+        ]
+      },
+      "top_gainers": [
+        {
+          "college": "BBK DAV College for Women",
+          "city": "Amritsar",
+          "current_rank": 83,
+          "previous_rank": 97
+        },
+        {
+          "college": "Surana College (Autonomous)",
+          "city": "Bengaluru",
+          "current_rank": 91,
+          "previous_rank": 100
+        },
+        {
+          "college": "SVKM's Narsee Monjee Institute of Management Studies",
+          "city": "Mumbai",
+          "current_rank": 94,
+          "previous_rank": 103
+        }
+      ],
+      "new_entrants": [
+        {
+          "rank": 23,
+          "college": "Maharaja Agrasen College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 24,
+          "college": "Sophia College for Women (Autonomous)",
+          "city": "Mumbai"
+        }
+      ],
+      "top_colleges_with_lowest_fees": [
+        {
+          "rank": 1,
+          "college": "A.P.C. Mahalaxmi College for Women",
+          "city": "Thoothukudi, TN",
+          "course_fee_3_years": "₹1,149"
+        },
+        {
+          "rank": 2,
+          "college": "Government Arts College (Autonomous)",
+          "city": "Salem, TN",
+          "course_fee_3_years": "₹1,335"
+        },
+        {
+          "rank": 3,
+          "college": "V.O. Chidambaram College",
+          "city": "Thoothukudi, TN",
+          "course_fee_3_years": "₹3,447"
+        },
+        {
+          "rank": 4,
+          "college": "Sri Vasavi College",
+          "city": "Erode, TN",
+          "course_fee_3_years": "₹6,100"
+        },
+        {
+          "rank": 5,
+          "college": "KM. Mayawati Government Girls P.G. College",
+          "city": "Gautam Buddha Nagar, Uttar Pradesh",
+          "course_fee_3_years": "₹7,890"
+        },
+        {
+          "rank": 6,
+          "college": "Bethune College",
+          "city": "Kolkata",
+          "course_fee_3_years": "₹8,460"
+        },
+        {
+          "rank": 7,
+          "college": "All Saints' College",
+          "city": "Thiruvananthapuram",
+          "course_fee_3_years": "₹8,490"
+        },
+        {
+          "rank": 8,
+          "college": "Mar Athanasius College (Autonomous)",
+          "city": "Ernakulam, Kerala",
+          "course_fee_3_years": "₹8,520"
+        },
+        {
+          "rank": 9,
+          "college": "Bajaj College of Science",
+          "city": "Wardha, Maharashtra",
+          "course_fee_3_years": "₹10,908"
+        },
+        {
+          "rank": 10,
+          "college": "Sophia College for Women (Autonomous)",
+          "city": "Mumbai",
+          "course_fee_3_years": "₹11,365"
+        }
+      ],
+      "top_emerging_colleges": [
+        {
+          "rank": 1,
+          "college": "Kristu Jayanti College (Autonomous)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 2,
+          "college": "Lakshmibai College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "Dr. N.G.P. Arts and Science College (Autonomous)",
+          "city": "Coimbatore"
+        },
+        {
+          "rank": 4,
+          "college": "St. Wilfred's P.G. College",
+          "city": "Jaipur"
+        },
+        {
+          "rank": 5,
+          "college": "St. Joseph's Degree & PG College",
+          "city": "Hyderabad"
+        },
+        {
+          "rank": 6,
+          "college": "Amity Institute of Applied Sciences",
+          "city": "Noida"
+        },
+        {
+          "rank": 7,
+          "college": "School of Basic & Applied Sciences, Galgotias University",
+          "city": "Greater Noida"
+        },
+        {
+          "rank": 8,
+          "college": "Sri Krishna Arts and Science College (Autonomous)",
+          "city": "Coimbatore"
+        },
+        {
+          "rank": 9,
+          "college": "Aryabhatta College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 10,
+          "college": "Mata Sundri College for Women",
+          "city": "New Delhi"
+        }
+      ]
+    },
+    "note": "Above tables are prepared based on objective data submitted by the colleges"
+  }
+}

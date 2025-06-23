@@ -1,0 +1,303 @@
+{
+  "emerging_bba_departments": [
+    {
+      "rank": 1,
+      "college": "SVKM'S NMIMS Anil Surendra Modi School of Commerce",
+      "city": "Mumbai"
+    },
+    { "rank": 2, "college": "Loyola College (Autonomous)", "city": "Chennai" },
+    { "rank": 3, "college": "Amity School of Business", "city": "Noida" },
+    {
+      "rank": 4,
+      "college": "Madras Christian College (Autonomous)",
+      "city": "Chennai"
+    },
+    {
+      "rank": 5,
+      "college": "Maharaja Surajmal Institute",
+      "city": "New Delhi"
+    },
+    {
+      "rank": 6,
+      "college": "St Xavier's College (Autonomous)",
+      "city": "Mumbai"
+    },
+    { "rank": 7, "college": "Keshav Mahavidyalaya", "city": "New Delhi" },
+    {
+      "rank": 8,
+      "college": "Deen Dayal Upadhyaya College",
+      "city": "New Delhi"
+    },
+    {
+      "rank": 9,
+      "college": "Jagannath International Management School, Vasant Kunj",
+      "city": "New Delhi"
+    },
+    {
+      "rank": 10,
+      "college": "Department of Management, JD Birla Institute",
+      "city": "Kolkata"
+    }
+  ],
+  "best_value_for_money": [
+    {
+      "rank": 1,
+      "college": "V.O. Chidambaram College",
+      "city": "Thoothukudi",
+      "roi": 174.42
+    },
+    {
+      "rank": 2,
+      "college": "Government Arts College (Autonomous), Salem",
+      "city": "Salem",
+      "roi": 89.89
+    },
+    {
+      "rank": 3,
+      "college": "Sri GVG Visalakshi College for Women (Autonomous)",
+      "city": "Tiruppur",
+      "roi": 41.24
+    },
+    {
+      "rank": 4,
+      "college": "Shaheed Sukhdev College of Business Studies",
+      "city": "New Delhi",
+      "roi": 15.76
+    },
+    {
+      "rank": 5,
+      "college": "Keshav Mahavidyalaya",
+      "city": "New Delhi",
+      "roi": 11.98
+    },
+    {
+      "rank": 6,
+      "college": "Sivananda Sarma Memorial RV College",
+      "city": "Bengaluru",
+      "roi": 7.84
+    },
+    {
+      "rank": 7,
+      "college": "Gobi Arts & Science College (Autonomous)",
+      "city": "Erode",
+      "roi": 5.77
+    },
+    {
+      "rank": 8,
+      "college": "Ramanujan College",
+      "city": "New Delhi",
+      "roi": 5.62
+    },
+    {
+      "rank": 9,
+      "college": "Dr. B. R. Ambedkar College",
+      "city": "Hyderabad",
+      "roi": 4.88
+    },
+    {
+      "rank": 10,
+      "college": "Hindusthan College of Arts & Science (Autonomous)",
+      "city": "Coimbatore",
+      "roi": 4.87
+    }
+  ],
+  "lowest_fees_colleges": [
+    {
+      "rank": 1,
+      "college": "V.O. Chidambaram College",
+      "city": "Thoothukudi",
+      "fee": "₹1,204"
+    },
+    {
+      "rank": 2,
+      "college": "Government Arts College (Autonomous), Salem",
+      "city": "Salem",
+      "fee": "₹2,225"
+    },
+    {
+      "rank": 3,
+      "college": "Sri GVG Visalakshi College for Women (Autonomous)",
+      "city": "Tiruppur",
+      "fee": "₹4,800"
+    },
+    {
+      "rank": 4,
+      "college": "Gobi Arts & Science College (Autonomous)",
+      "city": "Erode",
+      "fee": "₹28,350"
+    },
+    {
+      "rank": 5,
+      "college": "Andhra Loyola College (Autonomous)",
+      "city": "Vijayawada",
+      "fee": "₹40,000"
+    },
+    {
+      "rank": 6,
+      "college": "Keshav Mahavidyalaya",
+      "city": "New Delhi",
+      "fee": "₹50,088"
+    },
+    {
+      "rank": 7,
+      "college": "Bon Secours College for Women (Autonomous)",
+      "city": "Thanjavur",
+      "fee": "₹55,000"
+    },
+    {
+      "rank": 8,
+      "college": "Nehru Memorial College (Autonomous)",
+      "city": "Puthanampatti",
+      "fee": "₹57,000"
+    },
+    {
+      "rank": 9,
+      "college": "St. Wilfred's PG College",
+      "city": "Jaipur",
+      "fee": "₹60,000"
+    },
+    {
+      "rank": 10,
+      "college": "Safi Institute of Advanced Study (Autonomous)",
+      "city": "Malappuram",
+      "fee": "₹60,000"
+    }
+  ],
+  "best_placement_record": [
+    {
+      "rank": 1,
+      "college": "Shaheed Sukhdev College of Business Studies",
+      "city": "New Delhi",
+      "salary": "₹11,17,833"
+    },
+    {
+      "rank": 2,
+      "college": "St Xavier's College (Autonomous), Mumbai",
+      "city": "Mumbai",
+      "salary": "₹8,00,000"
+    },
+    {
+      "rank": 3,
+      "college": "School of Business and Management, Christ (Deemed to be University)",
+      "city": "Bengaluru",
+      "salary": "₹7,85,235"
+    },
+    {
+      "rank": 4,
+      "college": "Presidency College (Autonomous)",
+      "city": "Bengaluru",
+      "salary": "₹7,48,000"
+    },
+    {
+      "rank": 5,
+      "college": "Amity School of Business",
+      "city": "Kolkata",
+      "salary": "₹7,10,000"
+    },
+    {
+      "rank": 6,
+      "college": "SVKM's NMIMS Anil Surendra Modi School of Commerce",
+      "city": "Mumbai",
+      "salary": "₹7,00,000"
+    },
+    {
+      "rank": 7,
+      "college": "Kristu Jayanti College (Autonomous)",
+      "city": "Bengaluru",
+      "salary": "₹6,90,000"
+    },
+    {
+      "rank": 8,
+      "college": "Amity School of Business",
+      "city": "Ranchi",
+      "salary": "₹6,80,000"
+    },
+    {
+      "rank": 9,
+      "college": "Center for Management Studies (CMS), Jain (Deemed-to-be University)",
+      "city": "Bengaluru",
+      "salary": "₹6,61,000"
+    },
+    {
+      "rank": 10,
+      "college": "Deen Dayal Upadhyaya College",
+      "city": "New Delhi",
+      "salary": "₹6,46,000"
+    }
+  ],
+  "top_colleges_2025": [
+    {
+      "rank": 1,
+      "college": "Shaheed Sukhdev College of Business Studies",
+      "city": "New Delhi"
+    },
+    {
+      "rank": 2,
+      "college": "School of Business and Management, Christ (Deemed to be University)",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 3,
+      "college": "SVKM's NMIMS Anil Surendra Modi School of Commerce",
+      "city": "Mumbai"
+    },
+    {
+      "rank": 4,
+      "college": "Mount Carmel College (Autonomous)",
+      "city": "Bengaluru"
+    },
+    { "rank": 5, "college": "Loyola College (Autonomous)", "city": "Chennai" },
+    {
+      "rank": 6,
+      "college": "Amity School of Business, Noida",
+      "city": "Noida"
+    },
+    {
+      "rank": 7,
+      "college": "Madras Christian College (Autonomous)",
+      "city": "Chennai"
+    },
+    {
+      "rank": 8,
+      "college": "Maharaja Surajmal Institute",
+      "city": "New Delhi"
+    },
+    {
+      "rank": 9,
+      "college": "Center for Management Studies (CMS), Jain (Deemed-to-be University)",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 10,
+      "college": "St Xavier's College (Autonomous)",
+      "city": "Mumbai"
+    }
+  ],
+  "top_gainers": [
+    {
+      "college": "School of Management & Commerce, Sanskriti Univ.",
+      "city": "Mathura",
+      "rank_2025": 77,
+      "rank_2024": 85
+    },
+    {
+      "college": "School of Mgmt, OP Jindal Univ.",
+      "city": "Raigarh",
+      "rank_2025": 73,
+      "rank_2024": 80
+    },
+    {
+      "college": "Hindustan Inst. of Technology & Science",
+      "city": "Chennai",
+      "rank_2025": 79,
+      "rank_2024": 86
+    }
+  ],
+  "new_entrants": [
+    {
+      "rank": 24,
+      "college": "St. Joseph's College of Commerce (Autonomous)",
+      "city": "Bengaluru"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "source": "India Today Best Colleges 2025 - Law",
+  "rankings": {
+    "top_colleges_2025": {
+      "description": "Overall top law colleges ranking for 2025",
+      "colleges": [
+        {
+          "rank_2025": 1,
+          "rank_2024": 1,
+          "name": "National Law School of India University",
+          "city": "Bengaluru",
+          "status": "maintained"
+        },
+        {
+          "rank_2025": 2,
+          "rank_2024": 2,
+          "name": "The West Bengal National University of Juridical Sciences",
+          "city": "Kolkata",
+          "status": "maintained"
+        },
+        {
+          "rank_2025": 3,
+          "rank_2024": 3,
+          "name": "Gujarat National Law University",
+          "city": "Gandhinagar",
+          "status": "maintained"
+        },
+        {
+          "rank_2025": 4,
+          "rank_2024": 4,
+          "name": "National Law Institute University Bhopal",
+          "city": "Bhopal",
+          "status": "maintained"
+        },
+        {
+          "rank_2025": 5,
+          "rank_2024": 5,
+          "name": "Hidayatullah National Law University",
+          "city": "Raipur",
+          "status": "maintained"
+        },
+        {
+          "rank_2025": 6,
+          "rank_2024": 6,
+          "name": "Symbiosis Law School",
+          "city": "Pune",
+          "status": "maintained"
+        },
+        {
+          "rank_2025": 7,
+          "rank_2024": 7,
+          "name": "National Law University Odisha",
+          "city": "Cuttack",
+          "status": "maintained"
+        },
+        {
+          "rank_2025": 8,
+          "rank_2024": 8,
+          "name": "Dr. Ram Manohar Lohiya National Law University",
+          "city": "Lucknow",
+          "status": "maintained"
+        },
+        {
+          "rank_2025": 9,
+          "rank_2024": 10,
+          "name": "Lloyd Law College",
+          "city": "Greater Noida",
+          "status": "improved"
+        },
+        {
+          "rank_2025": 10,
+          "rank_2024": 11,
+          "name": "ILS Law College",
+          "city": "Pune",
+          "status": "improved"
+        }
+      ]
+    },
+    "best_value_for_money": {
+      "description": "Top 10 colleges with best value for money based on ROI",
+      "note": "ROI (return on investment) calculated based on average annual salary/total course fees (entire duration)",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Faculty of Law, Banaras Hindu University",
+          "city": "Varanasi",
+          "roi": 78.53
+        },
+        {
+          "rank": 2,
+          "name": "Faculty of Law, Aligarh Muslim University",
+          "city": "Aligarh",
+          "roi": 31.57
+        },
+        {
+          "rank": 3,
+          "name": "ILS Law College",
+          "city": "Pune",
+          "roi": 5.32
+        },
+        {
+          "rank": 4,
+          "name": "South Calcutta Law College",
+          "city": "Kolkata",
+          "roi": 3.73
+        },
+        {
+          "rank": 5,
+          "name": "Dr. B.R. Ambedkar Law College",
+          "city": "Hyderabad",
+          "roi": 2.56
+        },
+        {
+          "rank": 6,
+          "name": "BVDU New Law College",
+          "city": "Pune",
+          "roi": 1.93
+        },
+        {
+          "rank": 7,
+          "name": "Hidayatullah National Law University",
+          "city": "Raipur",
+          "roi": 1.57
+        },
+        {
+          "rank": 8,
+          "name": "National Law Institute University Bhopal",
+          "city": "Bhopal",
+          "roi": 1.51
+        },
+        {
+          "rank": 9,
+          "name": "Faculty of Law, The ICFAI University Tripura",
+          "city": "Agartala",
+          "roi": 1.40
+        },
+        {
+          "rank": 10,
+          "name": "Lloyd Law College",
+          "city": "Greater Noida",
+          "roi": 1.37
+        }
+      ]
+    },
+    "emerging_colleges": {
+      "description": "Top 10 emerging colleges - highest-scoring colleges among those set up in and after 2000",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "The West Bengal National University of Juridical Sciences",
+          "city": "Kolkata"
+        },
+        {
+          "rank": 2,
+          "name": "Gujarat National Law University",
+          "city": "Gandhinagar"
+        },
+        {
+          "rank": 3,
+          "name": "National Law Institute University Bhopal",
+          "city": "Bhopal"
+        },
+        {
+          "rank": 4,
+          "name": "Hidayatullah National Law University",
+          "city": "Raipur"
+        },
+        {
+          "rank": 5,
+          "name": "National Law University Odisha",
+          "city": "Cuttack"
+        },
+        {
+          "rank": 6,
+          "name": "Dr. Ram Manohar Lohiya National Law University",
+          "city": "Lucknow"
+        },
+        {
+          "rank": 7,
+          "name": "Lloyd Law College",
+          "city": "Greater Noida"
+        },
+        {
+          "rank": 8,
+          "name": "School of Law, Christ (Deemed to be University)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 9,
+          "name": "Chanakya National Law University",
+          "city": "Patna"
+        },
+        {
+          "rank": 10,
+          "name": "Army Institute of Law",
+          "city": "Mohali"
+        }
+      ]
+    },
+    "lowest_fees": {
+      "description": "Top 10 colleges with lowest fees",
+      "note": "Course fee includes tuition fee and other fees for entire duration",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Faculty of Law, Banaras Hindu University",
+          "city": "Varanasi",
+          "course_fee_inr": 7371
+        },
+        {
+          "rank": 2,
+          "name": "Kishinchand Chellaram Law College",
+          "city": "Mumbai",
+          "course_fee_inr": 29101
+        },
+        {
+          "rank": 3,
+          "name": "Faculty of Law, Aligarh Muslim University",
+          "city": "Aligarh",
+          "course_fee_inr": 32625
+        },
+        {
+          "rank": 4,
+          "name": "V.M. Govind Kamath Kare College of Law",
+          "city": "Margao, Goa",
+          "course_fee_inr": 58596
+        },
+        {
+          "rank": 5,
+          "name": "South Calcutta Law College",
+          "city": "Kolkata",
+          "course_fee_inr": 64400
+        },
+        {
+          "rank": 6,
+          "name": "Manikhand Pahade Law College",
+          "city": "Aurangabad",
+          "course_fee_inr": 64500
+        },
+        {
+          "rank": 7,
+          "name": "Bihar Institute of Law",
+          "city": "Patna",
+          "course_fee_inr": 67254
+        },
+        {
+          "rank": 8,
+          "name": "V.M. Salgaocar College of Law",
+          "city": "Panaji, Goa",
+          "course_fee_inr": 84024
+        },
+        {
+          "rank": 9,
+          "name": "Shri Girraj Maharaj College of Law and Professional Studies",
+          "city": "Mathura",
+          "course_fee_inr": 95888
+        },
+        {
+          "rank": 10,
+          "name": "NIMT College of Law",
+          "city": "Kotputli",
+          "course_fee_inr": 109954
+        }
+      ]
+    },
+    "new_entrants": {
+      "description": "Colleges that feature among the top 25 for the first time",
+      "colleges": [
+        {
+          "rank": 25,
+          "name": "Vivekananda School of Law and Legal Studies, Vivekananda Institute of Professional Studies",
+          "city": "New Delhi"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "publication": "India Today",
+    "edition": "Best Colleges of India 2025",
+    "category": "Law",
+    "publication_date": "June 30, 2025",
+    "website": "https://bestcolleges.indiatoday.in/"
+  }
+}

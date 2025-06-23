@@ -1,0 +1,370 @@
+{
+  "source": "India Today Best Colleges of India 2025 - Architecture",
+  "website": "https://bestcolleges.indiatoday.in/",
+  "publication_date": "June 30, 2025",
+  "categories": {
+    "top_emerging_colleges": {
+      "description": "Highest-scoring departments among those set up in and after 2000",
+      "rankings": [
+        {
+          "rank": 1,
+          "college": "School of Planning and Architecture (SPA), Vijayawada",
+          "city": "Vijayawada"
+        },
+        {
+          "rank": 2,
+          "college": "School of Planning and Architecture (SPA), Bhopal",
+          "city": "Bhopal"
+        },
+        {
+          "rank": 3,
+          "college": "Faculty of Architecture and Ekistics, Jamia Millia Islamia",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "college": "Department of Architecture, National Institute of Technology Hamirpur",
+          "city": "Hamirpur"
+        },
+        {
+          "rank": 5,
+          "college": "Indira Gandhi Delhi Technical University for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 6,
+          "college": "School of Planning and Architecture, University of Mysore",
+          "city": "Mysuru"
+        },
+        {
+          "rank": 7,
+          "college": "University School of Architecture & Planning",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 8,
+          "college": "Amity School of Architecture and Planning, Noida",
+          "city": "Noida"
+        },
+        {
+          "rank": 9,
+          "college": "School of Architecture & Planning, KIIT Deemed to be University",
+          "city": "Bhubaneswar"
+        },
+        {
+          "rank": 10,
+          "college": "Chitkara School of Planning and Architecture",
+          "city": "Patiala"
+        }
+      ]
+    },
+    "top_gainers": {
+      "description": "Colleges which made the biggest leaps since last year",
+      "rankings": [
+        {
+          "college": "Department of Architecture and Planning, Birla Institute of Technology Mesra",
+          "city": "Ranchi",
+          "rank_2024": 8,
+          "rank_2025": 7
+        },
+        {
+          "college": "Chitkara School of Planning and Architecture",
+          "city": "Patiala",
+          "rank_2024": 22,
+          "rank_2025": 23
+        },
+        {
+          "college": "Department of Architecture, TKM College of Engineering",
+          "city": "Kollam",
+          "rank_2024": 27,
+          "rank_2025": 28
+        }
+      ]
+    },
+    "private_colleges_lowest_fees": {
+      "description": "Top 10 Private Colleges with Lowest Fees",
+      "rankings": [
+        {
+          "rank": 1,
+          "college": "Department of Architecture, TKM College of Engineering",
+          "city": "Kollam",
+          "course_fees": "₹76,150"
+        },
+        {
+          "rank": 2,
+          "college": "Amity School of Architecture & Planning, Raipur",
+          "city": "Raipur",
+          "course_fees": "₹3,50,500"
+        },
+        {
+          "rank": 3,
+          "college": "Thiagarajar School of Environmental Design and Architecture",
+          "city": "Madurai",
+          "course_fees": "₹3,85,500"
+        },
+        {
+          "rank": 4,
+          "college": "Bishop Jerome School of Architecture",
+          "city": "Kollam",
+          "course_fees": "₹4,20,000"
+        },
+        {
+          "rank": 5,
+          "college": "Lingaya's Vidyapeeth (Deemed to be University)",
+          "city": "Faridabad",
+          "course_fees": "₹4,21,500"
+        },
+        {
+          "rank": 6,
+          "college": "PGET's S.B. Patil College of Architecture & Design",
+          "city": "Pune",
+          "course_fees": "₹5,23,987"
+        },
+        {
+          "rank": 7,
+          "college": "IDEAS-Institute of Design Education and Architecture Studies",
+          "city": "Nagpur",
+          "course_fees": "₹5,25,000"
+        },
+        {
+          "rank": 8,
+          "college": "Dayananda Sagar College of Architecture",
+          "city": "Bengaluru",
+          "course_fees": "₹5,36,120"
+        },
+        {
+          "rank": 9,
+          "college": "Department of Architecture, KLS Gogte Institute of Technology",
+          "city": "Belagavi",
+          "course_fees": "₹5,40,725"
+        },
+        {
+          "rank": 10,
+          "college": "Smt. Manoramabai Mundle College of Architecture",
+          "city": "Nagpur",
+          "course_fees": "₹5,45,760"
+        }
+      ],
+      "note": "Course fee = Tuition fee + other fees"
+    },
+    "govt_colleges_lowest_fees": {
+      "description": "Top 10 Government Colleges with Lowest Fees",
+      "rankings": [
+        {
+          "rank": 1,
+          "college": "Department of Architecture, Aligarh Muslim University",
+          "city": "Aligarh",
+          "course_fees": "₹42,640"
+        },
+        {
+          "rank": 2,
+          "college": "Faculty of Architecture and Ekistics, Jamia Millia Islamia",
+          "city": "New Delhi",
+          "course_fees": "₹67,250"
+        },
+        {
+          "rank": 3,
+          "college": "Chandigarh College of Architecture",
+          "city": "Chandigarh",
+          "course_fees": "₹76,952"
+        },
+        {
+          "rank": 4,
+          "college": "Sir J.J. College of Architecture",
+          "city": "Mumbai",
+          "course_fees": "₹89,250"
+        },
+        {
+          "rank": 5,
+          "college": "Goa College of Architecture",
+          "city": "Panaji, Goa",
+          "course_fees": "₹2,45,000"
+        },
+        {
+          "rank": 6,
+          "college": "School of Planning and Architecture (SPA), Bhopal",
+          "city": "Bhopal",
+          "course_fees": "₹4,39,900"
+        },
+        {
+          "rank": 7,
+          "college": "Faculty of Architecture and Planning, Dr. A.P.J. Abdul Kalam Technical University",
+          "city": "Lucknow",
+          "course_fees": "₹4,55,000"
+        },
+        {
+          "rank": 8,
+          "college": "University School of Architecture & Planning",
+          "city": "New Delhi",
+          "course_fees": "₹4,72,000"
+        },
+        {
+          "rank": 9,
+          "college": "School of Planning and Architecture (SPA), New Delhi",
+          "city": "New Delhi",
+          "course_fees": "₹4,83,000"
+        },
+        {
+          "rank": 10,
+          "college": "School of Planning and Architecture (SPA), Vijayawada",
+          "city": "Vijayawada",
+          "course_fees": "₹5,55,000"
+        }
+      ],
+      "note": "Course fee = Tuition fee + other fees"
+    },
+    "new_entrants": {
+      "description": "Colleges which found place among the top 25 for the first time",
+      "rankings": [
+        {
+          "rank": 5,
+          "college": "Indira Gandhi Delhi Technical University for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 10,
+          "college": "Chandigarh College of Architecture",
+          "city": "Chandigarh"
+        },
+        {
+          "rank": 24,
+          "college": "Christ (Deemed to be University)",
+          "city": "Bengaluru"
+        }
+      ]
+    },
+    "best_placement_record": {
+      "description": "Top 10 Colleges with Best Placement Record",
+      "rankings": [
+        {
+          "rank": 1,
+          "college": "Department of Architecture and Planning, IIT Roorkee",
+          "city": "Roorkee",
+          "average_annual_salary": "₹9,00,000"
+        },
+        {
+          "rank": 2,
+          "college": "School of Planning and Architecture (SPA), New Delhi",
+          "city": "New Delhi",
+          "average_annual_salary": "₹7,50,000"
+        },
+        {
+          "rank": 2,
+          "college": "School of Art and Architecture, Sushant University",
+          "city": "Gurugram",
+          "average_annual_salary": "₹7,50,000"
+        },
+        {
+          "rank": 4,
+          "college": "Indira Gandhi Delhi Technical University for Women",
+          "city": "New Delhi",
+          "average_annual_salary": "₹6,50,000"
+        },
+        {
+          "rank": 5,
+          "college": "Amity School of Architecture and Planning, Kolkata",
+          "city": "Kolkata",
+          "average_annual_salary": "₹6,29,155"
+        },
+        {
+          "rank": 6,
+          "college": "Chitkara School of Planning and Architecture",
+          "city": "Patiala",
+          "average_annual_salary": "₹6,10,000"
+        },
+        {
+          "rank": 7,
+          "college": "School of Architecture & Planning, KIIT Deemed to be University",
+          "city": "Bhubaneswar",
+          "average_annual_salary": "₹6,00,000"
+        },
+        {
+          "rank": 8,
+          "college": "School of Planning and Architecture (SPA), Vijayawada",
+          "city": "Vijayawada",
+          "average_annual_salary": "₹5,50,000"
+        },
+        {
+          "rank": 9,
+          "college": "School of Planning, Architecture & Design Excellence, Hindustan Institute of Technology & Science",
+          "city": "Chennai",
+          "average_annual_salary": "₹5,00,000"
+        },
+        {
+          "rank": 10,
+          "college": "Department of Architecture and Planning, Birla Institute of Technology Mesra",
+          "city": "Ranchi",
+          "average_annual_salary": "₹4,81,000"
+        }
+      ]
+    },
+    "top_colleges_2025": {
+      "description": "Overall Top 10 Colleges 2025 Rankings",
+      "rankings": [
+        {
+          "rank": 1,
+          "college": "Department of Architecture and Planning, IIT Roorkee",
+          "city": "Roorkee"
+        },
+        {
+          "rank": 2,
+          "college": "School of Planning and Architecture (SPA)",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "School of Planning and Architecture (SPA)",
+          "city": "Vijayawada"
+        },
+        {
+          "rank": 4,
+          "college": "School of Planning and Architecture (SPA)",
+          "city": "Bhopal"
+        },
+        {
+          "rank": 5,
+          "college": "Faculty of Architecture and Ekistics, Jamia Millia Islamia",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 7,
+          "college": "Department of Architecture and Planning, Birla Institute of Technology Mesra",
+          "city": "Ranchi"
+        },
+        {
+          "rank": 8,
+          "college": "Department of Architecture, National Institute of Technology (NIT) Hamirpur",
+          "city": "Hamirpur"
+        },
+        {
+          "rank": 8,
+          "college": "Sir J.J. College of Architecture",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 9,
+          "college": "Indira Gandhi Delhi Technical University for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 10,
+          "college": "School of Planning and Architecture, University of Mysore",
+          "city": "Mysuru"
+        }
+      ]
+    }
+  },
+  "featured_college": {
+    "name": "Department of Architecture and Planning, IIT Roorkee",
+    "rank": 1,
+    "city": "Roorkee",
+    "description": "Still the Master Builders - With its smart studios/labs focusing on new technologies and climate-responsive building, the Department of Architecture and Planning at IIT Roorkee equips students for a changing world",
+    "reasons_for_being_best": [
+      "State-of-the-art infrastructure with advanced design studios, computing labs, well-equipped digital library fostering high-quality learning environment",
+      "Research in sustainability, urban resilience and building technologies with cutting-edge research findings",
+      "Well-rounded curriculum blending theoretical grounding with hands-on practice, aligning with India's National Education Policy",
+      "Incorporated trends like Machine Learning, smart environments, computational design, resilient and climate-responsive architecture",
+      "Cultural and technical festivals like Thomso and Cognizance, F-Summit, Startup Expo, active student societies"
+    ]
+  }
+}

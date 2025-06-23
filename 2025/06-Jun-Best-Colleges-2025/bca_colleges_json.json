@@ -1,0 +1,232 @@
+{
+  "lowest_fees_colleges": [
+    {
+      "rank": 1,
+      "college": "Government Arts College (Autonomous), Salem",
+      "city": "Salem",
+      "fee": "₹2,725"
+    },
+    {
+      "rank": 2,
+      "college": "Sri G.V.G. Visalakshi College for Women (Autonomous)",
+      "city": "Udumalpet",
+      "fee": "₹4,700"
+    },
+    {
+      "rank": 3,
+      "college": "Gobi Arts & Science College (Autonomous)",
+      "city": "Erode",
+      "fee": "₹28,350"
+    },
+    {
+      "rank": 4,
+      "college": "Sardar Patel Mahavidyalaya",
+      "city": "Chandrapur",
+      "fee": "₹54,228"
+    },
+    {
+      "rank": 5,
+      "college": "MKSSS's Maharshi Karve Mahila Mahavidyalay",
+      "city": "Wai",
+      "fee": "₹57,000"
+    },
+    {
+      "rank": 6,
+      "college": "St. Wilfred's P.G. College",
+      "city": "Jaipur",
+      "fee": "₹60,000"
+    },
+    {
+      "rank": 7,
+      "college": "Bon Secours College for Women (Autonomous)",
+      "city": "Thanjavur",
+      "fee": "₹64,000"
+    },
+    {
+      "rank": 8,
+      "college": "S.S. Jain Subodh Girls P.G. College",
+      "city": "Jaipur",
+      "fee": "₹64,000"
+    },
+    {
+      "rank": 9,
+      "college": "Nehru Memorial College (Autonomous)",
+      "city": "Puthanampatti",
+      "fee": "₹64,475"
+    },
+    {
+      "rank": 10,
+      "college": "JP College of Arts & Science",
+      "city": "Tenkasi",
+      "fee": "₹72,000"
+    }
+  ],
+  "emerging_colleges": [
+    {
+      "rank": 1,
+      "college": "Mount Carmel College (Autonomous)",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 2,
+      "college": "School of Computer Science and IT, Jain (Deemed to be University)",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 3,
+      "college": "MIT Arts, Commerce & Science College, Alandi",
+      "city": "Pune"
+    },
+    {
+      "rank": 4,
+      "college": "School of Computing Science & Engineering, Galgotias University",
+      "city": "Greater Noida"
+    },
+    { "rank": 5, "college": "Ethiraj College for Women", "city": "Chennai" },
+    {
+      "rank": 6,
+      "college": "St. Xavier's College (Autonomous)",
+      "city": "Mumbai"
+    },
+    {
+      "rank": 7,
+      "college": "Chanderprabhu Jain College of Higher Studies & School of Law",
+      "city": "New Delhi"
+    },
+    { "rank": 8, "college": "St. Mira's College for Girls", "city": "Pune" },
+    {
+      "rank": 9,
+      "college": "Dr. D.Y. Patil Arts, Commerce & Science College, Pimpri",
+      "city": "Pune"
+    },
+    {
+      "rank": 10,
+      "college": "Parul Institute of Computer Application",
+      "city": "Vadodara"
+    }
+  ],
+  "best_value_for_money": [
+    {
+      "rank": 1,
+      "college": "Government Arts College (Autonomous), Salem",
+      "city": "Salem",
+      "roi": 66.03
+    },
+    {
+      "rank": 2,
+      "college": "Sri G.V.G. Visalakshi College for Women (Autonomous)",
+      "city": "Udumalpet",
+      "roi": 31.91
+    },
+    {
+      "rank": 3,
+      "college": "Sivananda Sarma Memorial RV College",
+      "city": "Bengaluru",
+      "roi": 5.2
+    },
+    {
+      "rank": 4,
+      "college": "St. Aloysius’ College (Autonomous), Jabalpur",
+      "city": "Jabalpur",
+      "roi": 5.14
+    },
+    {
+      "rank": 5,
+      "college": "Techno Park School of Computer Science, Dr. C.V. Raman University",
+      "city": "Khandwa",
+      "roi": 4.31
+    },
+    {
+      "rank": 6,
+      "college": "S.S. Jain Subodh Girls P.G. College",
+      "city": "Jaipur",
+      "roi": 3.58
+    },
+    {
+      "rank": 7,
+      "college": "MKSSS’s Maharshi Karve Mahila Mahavidyalay",
+      "city": "Wai",
+      "roi": 3.51
+    },
+    { "rank": 8, "college": "Career College", "city": "Bhopal", "roi": 3.24 },
+    {
+      "rank": 9,
+      "college": "Bon Secours College for Women (Autonomous)",
+      "city": "Thanjavur",
+      "roi": 3.13
+    },
+    {
+      "rank": 10,
+      "college": "St. Xavier’s College (Autonomous)",
+      "city": "Mumbai",
+      "roi": 2.96
+    }
+  ],
+  "top_colleges_2025": [
+    {
+      "rank": 1,
+      "college": "Department of Computer Science, Christ (Deemed to be University)",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 2,
+      "college": "Symbiosis Institute of Computer Studies and Research",
+      "city": "Pune"
+    },
+    {
+      "rank": 3,
+      "college": "Maharaja Surajmal Institute",
+      "city": "New Delhi"
+    },
+    {
+      "rank": 4,
+      "college": "Kristu Jayanti College (Autonomous)",
+      "city": "Bengaluru"
+    },
+    { "rank": 5, "college": "Loyola College (Autonomous)", "city": "Chennai" },
+    { "rank": 6, "college": "St Joseph’s University", "city": "Bengaluru" },
+    { "rank": 7, "college": "Women's Christian College", "city": "Chennai" },
+    {
+      "rank": 8,
+      "college": "M.S. Ramaiah College of Arts, Science and Commerce",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 9,
+      "college": "Stella Maris College (Autonomous)",
+      "city": "Chennai"
+    },
+    {
+      "rank": 10,
+      "college": "Amity Institute of Information Technology",
+      "city": "Noida"
+    }
+  ],
+  "top_gainers": [
+    {
+      "college": "Christ College (Autonomous)",
+      "city": "Thrissur",
+      "rank_2025": 63,
+      "rank_2024": 69
+    },
+    {
+      "college": "MIT Arts, Commerce & Science College, Alandi",
+      "city": "Pune",
+      "rank_2025": 21,
+      "rank_2024": 25
+    },
+    {
+      "college": "School of Computing Science & Engineering, Galgotias University",
+      "city": "Greater Noida",
+      "rank_2025": 26,
+      "rank_2024": 30
+    }
+  ],
+  "new_entrants": [
+    {
+      "rank": 25,
+      "college": "Prestige Institute of Management & Research",
+      "city": "Gwalior"
+    }
+  ]
+}

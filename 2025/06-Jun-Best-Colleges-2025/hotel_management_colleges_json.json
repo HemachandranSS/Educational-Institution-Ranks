@@ -1,0 +1,293 @@
+{
+  "rankings": {
+    "top_10_emerging_colleges": {
+      "description": "Highest-scoring colleges among those set up in and after 2000",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Institute of Hotel Management, Catering & Nutrition, Pusa",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "name": "Institute of Hotel Management Catering Technology & Applied Nutrition, Mumbai",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 3,
+          "name": "Institute of Hotel Management Catering Technology & Applied Nutrition, Hyderabad",
+          "city": "Hyderabad"
+        },
+        {
+          "rank": 4,
+          "name": "Institute of Hotel Management Catering Technology & Applied Nutrition, Bangalore",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 5,
+          "name": "Institute of Hotel Management Catering Technology & Applied Nutrition, Chennai",
+          "city": "Chennai"
+        },
+        {
+          "rank": 6,
+          "name": "Institute of Hotel Management Catering Technology & Applied Nutrition, Lucknow",
+          "city": "Lucknow"
+        },
+        {
+          "rank": 7,
+          "name": "Banarsidas Chandiwala Institute of Hotel Management & Catering Technology",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 8,
+          "name": "Amity School of Hospitality, Noida",
+          "city": "Noida"
+        },
+        {
+          "rank": 9,
+          "name": "Institute of Hotel Management, Catering Technology & Applied Nutrition, Dehradun",
+          "city": "Dehradun"
+        },
+        {
+          "rank": 10,
+          "name": "Institute of Hotel Management Catering Technology & Applied Nutrition, Ranchi",
+          "city": "Ranchi"
+        }
+      ]
+    },
+    "top_3_gainers": {
+      "description": "Colleges that have made the biggest leap since last year",
+      "colleges": [
+        {
+          "name": "School of Tourism and Hospitality, Sandip University",
+          "city": "Mathura",
+          "rank_2025": 37,
+          "rank_2024": 41
+        },
+        {
+          "name": "International Institute of Hotel Management, Kolkata",
+          "city": "Kolkata",
+          "rank_2025": 43,
+          "rank_2024": 47
+        },
+        {
+          "name": "School of Hospitality & Tourism, Galgotias University",
+          "city": "Greater Noida",
+          "rank_2025": 24,
+          "rank_2024": 27
+        }
+      ]
+    },
+    "top_10_private_colleges_lowest_fees": {
+      "description": "Private colleges with lowest fees",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Kongu Arts and Science College (Autonomous)",
+          "city": "Erode",
+          "course_fee": "₹72,000"
+        },
+        {
+          "rank": 2,
+          "name": "Department of Tourism and Hospitality Management, Jamia Millia Islamia",
+          "city": "New Delhi",
+          "course_fee": "₹1,07,355"
+        },
+        {
+          "rank": 3,
+          "name": "RVS College of Arts & Science (Autonomous)",
+          "city": "Coimbatore",
+          "course_fee": "₹1,42,000"
+        },
+        {
+          "rank": 4,
+          "name": "Department of Catering Science and Hotel Management, Bishop Appasamy College of Arts and Science",
+          "city": "Coimbatore",
+          "course_fee": "₹1,50,000"
+        },
+        {
+          "rank": 4,
+          "name": "Muthayammal College of Arts and Science",
+          "city": "Namakkal",
+          "course_fee": "₹1,50,000"
+        },
+        {
+          "rank": 4,
+          "name": "Thanthai Hans Roever College (Autonomous)",
+          "city": "Perambalur",
+          "course_fee": "₹1,50,000"
+        },
+        {
+          "rank": 7,
+          "name": "Department of Catering Science and Hotel Management, Dr. N.G.P. Arts and Science College",
+          "city": "Coimbatore",
+          "course_fee": "₹1,54,200"
+        },
+        {
+          "rank": 8,
+          "name": "Sri Krishna Arts and Science College (Autonomous)",
+          "city": "Coimbatore",
+          "course_fee": "₹1,59,000"
+        },
+        {
+          "rank": 9,
+          "name": "Nehru Arts and Science College",
+          "city": "Coimbatore",
+          "course_fee": "₹1,59,900"
+        },
+        {
+          "rank": 10,
+          "name": "Sri Ramakrishna College of Arts and Science",
+          "city": "Coimbatore",
+          "course_fee": "₹1,68,000"
+        }
+      ]
+    },
+    "top_10_best_value_for_money": {
+      "description": "Colleges with best value for money",
+      "colleges": [
+        {
+          "rank": 1,
+          "name": "Department of Tourism and Hospitality Management, Jamia Millia Islamia",
+          "city": "New Delhi",
+          "roi": 2.01
+        },
+        {
+          "rank": 2,
+          "name": "Kongu Arts and Science College (Autonomous)",
+          "city": "Erode",
+          "roi": 2.00
+        },
+        {
+          "rank": 3,
+          "name": "Institute of Hotel Management, Catering & Nutrition, Kufri",
+          "city": "Shimla",
+          "roi": 1.59
+        },
+        {
+          "rank": 4,
+          "name": "RVS College of Arts & Science (Autonomous)",
+          "city": "Coimbatore",
+          "roi": 1.45
+        },
+        {
+          "rank": 5,
+          "name": "Department of Catering Science and Hotel Management, Bishop Appasamy College of Arts and Science",
+          "city": "Coimbatore",
+          "roi": 1.44
+        },
+        {
+          "rank": 6,
+          "name": "Sri Ramakrishna College of Arts and Science",
+          "city": "Coimbatore",
+          "roi": 1.41
+        },
+        {
+          "rank": 7,
+          "name": "Muthayammal College of Arts and Science",
+          "city": "Namakkal",
+          "roi": 1.33
+        },
+        {
+          "rank": 8,
+          "name": "Yuvakshetra Institute of Management Studies",
+          "city": "Palakkad",
+          "roi": 1.32
+        },
+        {
+          "rank": 9,
+          "name": "Department of Catering Science and Hotel Management, Dr. N.G.P. Arts and Science College",
+          "city": "Coimbatore",
+          "roi": 1.30
+        },
+        {
+          "rank": 10,
+          "name": "School of Hospitality & Tourism, Galgotias University",
+          "city": "Greater Noida",
+          "roi": 1.21
+        }
+      ]
+    },
+    "top_10_colleges_2025": {
+      "description": "Overall top 10 colleges ranking 2025",
+      "colleges": [
+        {
+          "rank_2025": 1,
+          "rank_2024": 1,
+          "name": "Institute of Hotel Management, Catering & Nutrition, Pusa",
+          "city": "New Delhi"
+        },
+        {
+          "rank_2025": 2,
+          "rank_2024": 2,
+          "name": "Welcomgroup Graduate School of Hotel Administration",
+          "city": "Manipal"
+        },
+        {
+          "rank_2025": 3,
+          "rank_2024": 3,
+          "name": "Institute of Hotel Management Catering Tech. & Applied Nutrition, Mumbai",
+          "city": "Mumbai"
+        },
+        {
+          "rank_2025": 4,
+          "rank_2024": 5,
+          "name": "Institute of Hotel Management Catering Tech. & Applied Nutrition",
+          "city": "Hyderabad"
+        },
+        {
+          "rank_2025": 5,
+          "rank_2024": 4,
+          "name": "Institute of Hotel Management Catering Tech. & Applied Nutrition, Bangalore",
+          "city": "Bengaluru"
+        },
+        {
+          "rank_2025": 6,
+          "rank_2024": 6,
+          "name": "Institute of Hotel Management Catering Technology & Applied Nutrition",
+          "city": "Chennai"
+        },
+        {
+          "rank_2025": 7,
+          "rank_2024": 7,
+          "name": "Institute of Hotel Management Catering Technology & Applied Nutrition",
+          "city": "Lucknow"
+        },
+        {
+          "rank_2025": 8,
+          "rank_2024": 8,
+          "name": "Banarsidas Chandiwala Institute of Hotel Mgmt & Catering Technology",
+          "city": "New Delhi"
+        },
+        {
+          "rank_2025": 9,
+          "rank_2024": 11,
+          "name": "Army Institute of Hotel Management & Catering Technology",
+          "city": "Bengaluru"
+        },
+        {
+          "rank_2025": 10,
+          "rank_2024": 10,
+          "name": "Institute of Hotel Management Catering & Nutrition",
+          "city": "Gurdaspur"
+        }
+      ]
+    },
+    "new_entrants_top_25": {
+      "description": "New entrants among top 25 for the first time",
+      "colleges": [
+        {
+          "rank": 24,
+          "name": "School of Hospitality & Tourism, Galgotias University",
+          "city": "Greater Noida"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "source": "India Today Best Colleges 2025",
+    "category": "Hotel Management",
+    "website": "https://bestcolleges.indiatoday.in/",
+    "note": "ROI (return on investment) is calculated based on average annual salary/ total course fees (entire duration)"
+  }
+}

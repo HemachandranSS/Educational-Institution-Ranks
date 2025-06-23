@@ -1,0 +1,593 @@
+{
+  "title": "Best Colleges of India 2025 - Commerce",
+  "source": "India Today",
+  "website": "https://bestcolleges.indiatoday.in/",
+  "year": 2025,
+  "rankings": {
+    "top_10_overall": [
+      {
+        "rank_2025": 1,
+        "rank_2024": 1,
+        "college": "Shri Ram College of Commerce (SRCC)",
+        "city": "New Delhi",
+        "movement": "stable"
+      },
+      {
+        "rank_2025": 2,
+        "rank_2024": 2,
+        "college": "Hindu College",
+        "city": "New Delhi",
+        "movement": "stable"
+      },
+      {
+        "rank_2025": 3,
+        "rank_2024": 3,
+        "college": "Hansraj College",
+        "city": "New Delhi",
+        "movement": "stable"
+      },
+      {
+        "rank_2025": 4,
+        "rank_2024": 4,
+        "college": "Lady Shri Ram College for Women",
+        "city": "New Delhi",
+        "movement": "stable"
+      },
+      {
+        "rank_2025": 5,
+        "rank_2024": 5,
+        "college": "Kirori Mal College",
+        "city": "New Delhi",
+        "movement": "stable"
+      },
+      {
+        "rank_2025": 6,
+        "rank_2024": 7,
+        "college": "SYKM's Narsee Monjee College of Commerce and Economics (Autonomous)",
+        "city": "Mumbai",
+        "movement": "up"
+      },
+      {
+        "rank_2025": 7,
+        "rank_2024": 8,
+        "college": "Atma Ram Sanatan Dharma College",
+        "city": "New Delhi",
+        "movement": "up"
+      },
+      {
+        "rank_2025": 8,
+        "rank_2024": 6,
+        "college": "Loyola College (Autonomous)",
+        "city": "Chennai",
+        "movement": "down"
+      },
+      {
+        "rank_2025": 9,
+        "rank_2024": 9,
+        "college": "Ramjas College",
+        "city": "New Delhi",
+        "movement": "stable"
+      },
+      {
+        "rank_2025": 10,
+        "rank_2024": 10,
+        "college": "Madras Christian College (Autonomous)",
+        "city": "Chennai",
+        "movement": "stable"
+      }
+    ],
+    "city_wise": {
+      "delhi": [
+        {
+          "rank": 1,
+          "college": "Shri Ram College of Commerce (SRCC)"
+        },
+        {
+          "rank": 2,
+          "college": "Hindu College"
+        },
+        {
+          "rank": 3,
+          "college": "Hansraj College"
+        }
+      ],
+      "hyderabad": [
+        {
+          "rank": 1,
+          "college": "St. Francis College for Women, Begumpet"
+        },
+        {
+          "rank": 2,
+          "college": "St. Ann's College for Women (Autonomous)"
+        },
+        {
+          "rank": 3,
+          "college": "St. Joseph's Degree & PG College"
+        }
+      ],
+      "chennai": [
+        {
+          "rank": 1,
+          "college": "Loyola College (Autonomous)"
+        },
+        {
+          "rank": 2,
+          "college": "Madras Christian College (Autonomous)"
+        },
+        {
+          "rank": 3,
+          "college": "Stella Maris College (Autonomous)"
+        }
+      ],
+      "mumbai": [
+        {
+          "rank": 1,
+          "college": "SYKM's Narsee Monjee College of Commerce and Economics (Autonomous)"
+        },
+        {
+          "rank": 2,
+          "college": "SYKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)"
+        },
+        {
+          "rank": 3,
+          "college": "K.J. Somaiya College of Arts and Commerce (Autonomous)"
+        }
+      ],
+      "chandigarh": [
+        {
+          "rank": 1,
+          "college": "Goswami Ganesh Dutta Sanatan Dharma College"
+        },
+        {
+          "rank": 2,
+          "college": "Post Graduate Government College for Girls"
+        },
+        {
+          "rank": 3,
+          "college": "Mehr Chand Mahajan DAV College for Women"
+        }
+      ],
+      "pune": [
+        {
+          "rank": 1,
+          "college": "St. Mira's College for Girls"
+        },
+        {
+          "rank": 2,
+          "college": "Indira College of Commerce and Science"
+        },
+        {
+          "rank": 3,
+          "college": "Marathwada Mitra Mandal's College of Commerce"
+        }
+      ],
+      "jaipur": [
+        {
+          "rank": 1,
+          "college": "S.S. Jain Subodh P.G. College (Autonomous)"
+        },
+        {
+          "rank": 2,
+          "college": "Amity Business School, Jaipur"
+        },
+        {
+          "rank": 3,
+          "college": "Poddar International College"
+        }
+      ],
+      "coimbatore": [
+        {
+          "rank": 1,
+          "college": "PSG College of Arts & Science"
+        },
+        {
+          "rank": 2,
+          "college": "Sri Krishna Arts & Science College (Autonomous)"
+        },
+        {
+          "rank": 3,
+          "college": "Sri Ramakrishna College of Arts & Science"
+        }
+      ],
+      "bengaluru": [
+        {
+          "rank": 1,
+          "college": "St. Joseph's College of Commerce (Autonomous)"
+        },
+        {
+          "rank": 2,
+          "college": "School of Commerce, Finance and Accountancy, Christ (Deemed to be University)"
+        },
+        {
+          "rank": 3,
+          "college": "Kristu Jayanti College (Autonomous)"
+        }
+      ]
+    },
+    "region_wise": {
+      "east": [
+        {
+          "rank": 1,
+          "college": "J.D. Birla Institute",
+          "city": "Kolkata"
+        },
+        {
+          "rank": 2,
+          "college": "St. Xavier's College (Autonomous), Ranchi",
+          "city": "Ranchi"
+        },
+        {
+          "rank": 3,
+          "college": "Amity Business School, Raipur",
+          "city": "Raipur"
+        },
+        {
+          "rank": 4,
+          "college": "Amity College of Commerce & Finance, Kolkata",
+          "city": "Kolkata"
+        },
+        {
+          "rank": 5,
+          "college": "The ICFAI University Sikkim",
+          "city": "Gangtok"
+        }
+      ],
+      "north": [
+        {
+          "rank": 1,
+          "college": "Shri Ram College of Commerce (SRCC)",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "Hansraj College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "college": "Kirori Mal College",
+          "city": "New Delhi"
+        }
+      ],
+      "south": [
+        {
+          "rank": 1,
+          "college": "Loyola College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 2,
+          "college": "Madras Christian College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 3,
+          "college": "St. Joseph's College of Commerce (Autonomous)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 4,
+          "college": "School of Commerce, Finance and Accountancy, Christ (Deemed to be University)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 5,
+          "college": "Kristu Jayanti College (Autonomous)",
+          "city": "Bengaluru"
+        }
+      ],
+      "west": [
+        {
+          "rank": 1,
+          "college": "SYKM's Narsee Monjee College of Commerce and Economics (Autonomous)",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 2,
+          "college": "SYKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 3,
+          "college": "K.J. Somaiya College of Arts and Commerce (Autonomous)",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 4,
+          "college": "Kishinchand Chellaram College",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 5,
+          "college": "St. Xavier's College (Autonomous), Mumbai",
+          "city": "Mumbai"
+        }
+      ]
+    },
+    "special_categories": {
+      "best_placement_record": [
+        {
+          "rank": 1,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi",
+          "average_salary": "₹12,00,000"
+        },
+        {
+          "rank": 2,
+          "college": "Hindu College",
+          "city": "New Delhi",
+          "average_salary": "₹10,11,777"
+        },
+        {
+          "rank": 3,
+          "college": "Shri Ram College of Commerce (SRCC)",
+          "city": "New Delhi",
+          "average_salary": "₹9,32,000"
+        },
+        {
+          "rank": 4,
+          "college": "Hansraj College",
+          "city": "New Delhi",
+          "average_salary": "₹9,15,305"
+        },
+        {
+          "rank": 5,
+          "college": "Kirori Mal College",
+          "city": "New Delhi",
+          "average_salary": "₹8,98,325"
+        },
+        {
+          "rank": 6,
+          "college": "School of Commerce, Jain (Deemed-to-be University)",
+          "city": "Bengaluru",
+          "average_salary": "₹8,00,000"
+        },
+        {
+          "rank": 7,
+          "college": "Atma Ram Sanatan Dharma College",
+          "city": "New Delhi",
+          "average_salary": "₹7,50,000"
+        },
+        {
+          "rank": 8,
+          "college": "Kristu Jayanti College (Autonomous)",
+          "city": "Bengaluru",
+          "average_salary": "₹7,12,083"
+        },
+        {
+          "rank": 9,
+          "college": "Prestige Institute of Management and Research, Indore",
+          "city": "Indore",
+          "average_salary": "₹6,50,000"
+        },
+        {
+          "rank": 10,
+          "college": "Goswami Ganesh Dutta Sanatan Dharma College",
+          "city": "Chandigarh",
+          "average_salary": "₹6,22,947"
+        }
+      ],
+      "lowest_fees": [
+        {
+          "rank": 1,
+          "college": "A.P.C. Mahalaxmi College for Women",
+          "city": "Thoothukudi",
+          "course_fees": "₹959"
+        },
+        {
+          "rank": 2,
+          "college": "V.O. Chidambaram College",
+          "city": "Thoothukudi",
+          "course_fees": "₹1,174"
+        },
+        {
+          "rank": 3,
+          "college": "All Saints' College",
+          "city": "Thiruvananthapuram",
+          "course_fees": "₹1,790"
+        },
+        {
+          "rank": 4,
+          "college": "Government Arts College (Autonomous), Salem",
+          "city": "Salem",
+          "course_fees": "₹1,915"
+        },
+        {
+          "rank": 5,
+          "college": "Sri G.V.G. Visalakshi College for Women (Autonomous)",
+          "city": "Udumalpet",
+          "course_fees": "₹3,645"
+        },
+        {
+          "rank": 6,
+          "college": "Bhairab Ganguly College",
+          "city": "Kolkata",
+          "course_fees": "₹3,765"
+        },
+        {
+          "rank": 7,
+          "college": "Sardar Patel Mahavidyalaya",
+          "city": "Chandrapur",
+          "course_fees": "₹3,846"
+        },
+        {
+          "rank": 8,
+          "college": "Sri Vasavi College",
+          "city": "Erode",
+          "course_fees": "₹4,000"
+        },
+        {
+          "rank": 9,
+          "college": "Shree Meenakshi Pariyar and Shree Bhailal Patel (Retromar) Unity Arts and Commerce College for Girls",
+          "city": "Ahmedabad",
+          "course_fees": "₹4,500"
+        },
+        {
+          "rank": 10,
+          "college": "St. Joseph's College (Autonomous), Irinjalakuda",
+          "city": "Thrissur",
+          "course_fees": "₹5,050"
+        }
+      ],
+      "best_value_for_money": [
+        {
+          "rank": 1,
+          "college": "V.O. Chidambaram College",
+          "city": "Thoothukudi",
+          "roi": "163.34"
+        },
+        {
+          "rank": 2,
+          "college": "Government Arts College (Autonomous), Salem",
+          "city": "Salem",
+          "roi": "104.44"
+        },
+        {
+          "rank": 3,
+          "college": "St. Joseph's College (Autonomous), Irinjalakuda",
+          "city": "Thrissur",
+          "roi": "66.34"
+        },
+        {
+          "rank": 4,
+          "college": "Bhairab Ganguly College",
+          "city": "Kolkata",
+          "roi": "52.84"
+        },
+        {
+          "rank": 5,
+          "college": "Sri Vasavi College",
+          "city": "Erode",
+          "roi": "50.87"
+        },
+        {
+          "rank": 6,
+          "college": "K.M. Malayaatti Government Girls P.G. College",
+          "city": "Budh Nagar",
+          "roi": "46.13"
+        },
+        {
+          "rank": 7,
+          "college": "SYKM's Narsee Monjee College of Commerce and Economics (Autonomous)",
+          "city": "Mumbai",
+          "roi": "43.64"
+        },
+        {
+          "rank": 8,
+          "college": "Sacred Heart College (Autonomous), Kochi",
+          "city": "Kochi",
+          "roi": "36.29"
+        },
+        {
+          "rank": 9,
+          "college": "Bharata Mata College (Autonomous), Thrikkakara",
+          "city": "Kochi",
+          "roi": "35.00"
+        },
+        {
+          "rank": 10,
+          "college": "Mar Athanasius College (Autonomous)",
+          "city": "Ernakulam",
+          "roi": "30.46"
+        }
+      ],
+      "emerging_colleges": [
+        {
+          "rank": 1,
+          "college": "Kristu Jayanti College (Autonomous)",
+          "city": "Bengaluru",
+          "note": "Highest scoring colleges among those which were set up in and after 2000"
+        },
+        {
+          "rank": 2,
+          "college": "Women's Christian College",
+          "city": "Chennai"
+        },
+        {
+          "rank": 3,
+          "college": "Presidency College (Autonomous)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 4,
+          "college": "J.D. Birla Institute",
+          "city": "Kolkata"
+        },
+        {
+          "rank": 5,
+          "college": "Rajagiri College of Social Sciences (Autonomous)",
+          "city": "Kochi"
+        },
+        {
+          "rank": 6,
+          "college": "School of Commerce, Jain (Deemed-to-be University)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 7,
+          "college": "Maharaja Surajmal Institute",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 8,
+          "college": "Amity College of Commerce and Finance",
+          "city": "Noida"
+        },
+        {
+          "rank": 9,
+          "college": "Prestige Institute of Management & Research, Gwalior",
+          "city": "Gwalior"
+        },
+        {
+          "rank": 10,
+          "college": "St. Joseph's Degree & PG College",
+          "city": "Hyderabad"
+        }
+      ],
+      "top_gainers_first_100": [
+        {
+          "college": "Deshbandhu College",
+          "city": "New Delhi",
+          "rank_2025": 37,
+          "rank_2024": 45
+        },
+        {
+          "college": "Faculty of Management and Commerce, M.S. Ramaiah University of Applied Sciences",
+          "city": "Bengaluru",
+          "rank_2025": 77,
+          "rank_2024": 84
+        },
+        {
+          "college": "Badruka College of Commerce and Arts",
+          "city": "Hyderabad",
+          "rank_2025": 89,
+          "rank_2024": 106
+        }
+      ],
+      "new_entrants": [
+        {
+          "rank": 23,
+          "college": "Shivaji College",
+          "city": "New Delhi",
+          "note": "Colleges which found place among top 25 for the first time"
+        }
+      ]
+    }
+  },
+  "notes": {
+    "placement_data": "Data as provided by college",
+    "fees_structure": "Course fee = Tuition fee + other fees",
+    "roi_calculation": "ROI (return on investment) is calculated based on average annual salary/total course fees (entire duration)",
+    "comparative_analysis": "For an 8-year comparative analysis, go to https://bestcolleges.indiatoday.in"
+  }
+}

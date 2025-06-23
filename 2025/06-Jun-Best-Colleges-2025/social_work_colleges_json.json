@@ -1,0 +1,242 @@
+{
+  "top_10_colleges_2025": [
+    {
+      "rank": 1,
+      "college": "Tata Institute of Social Sciences (TISS)",
+      "city": "Mumbai"
+    },
+    {
+      "rank": 2,
+      "college": "Rajagiri College of Social Sciences (Autonomous)",
+      "city": "Kochi"
+    },
+    {
+      "rank": 3,
+      "college": "Department of Social Work, Delhi School of Social Work, University of Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "rank": 4,
+      "college": "Madras School of Social Work",
+      "city": "Chennai"
+    },
+    {
+      "rank": 5,
+      "college": "College of Social Work (Autonomous), Nirmala Niketan",
+      "city": "Mumbai"
+    },
+    {
+      "rank": 6,
+      "college": "Department of Social Work, Jamia Millia Islamia",
+      "city": "New Delhi"
+    },
+    {
+      "rank": 7,
+      "college": "Department of Social Work, Christ (Deemed to be University)",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 8,
+      "college": "Department of Social Work, Madras Christian College",
+      "city": "Chennai"
+    },
+    {
+      "rank": 9,
+      "college": "Department of Social Work, Loyola College (Autonomous)",
+      "city": "Chennai"
+    },
+    {
+      "rank": 10,
+      "college": "Loyola College of Social Sciences (Autonomous)",
+      "city": "Thiruvananthapuram"
+    }
+  ],
+  "top_10_emerging_colleges": [
+    {
+      "rank": 1,
+      "college": "Department of Social Work, Christ (Deemed to be University)",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 2,
+      "college": "Kristu Jayanti College (Autonomous)",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 3,
+      "college": "MSW Program, Prasanna School of Public Health, MAHE",
+      "city": "Manipal"
+    },
+    {
+      "rank": 4,
+      "college": "Amity Institute of Social Sciences",
+      "city": "Noida"
+    },
+    {
+      "rank": 5,
+      "college": "Department of Sociology, Banasthali Vidyapith",
+      "city": "Banasthali Vidyapith"
+    },
+    {
+      "rank": 6,
+      "college": "St. Joseph’s University",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 7,
+      "college": "St. Aloysius College (Autonomous), Mangaluru",
+      "city": "Mangaluru"
+    },
+    {
+      "rank": 8,
+      "college": "The Bhopal School of Social Sciences",
+      "city": "Bhopal"
+    },
+    {
+      "rank": 9,
+      "college": "S.S. Jain Subodh P.G. College (Autonomous)",
+      "city": "Jaipur"
+    },
+    {
+      "rank": 10,
+      "college": "Sri Dharmasthala Manjunatheshwara College (Autonomous)",
+      "city": "Ujire"
+    }
+  ],
+  "new_entrants": [
+    {
+      "rank": 24,
+      "college": "PSG College of Arts & Science",
+      "city": "Coimbatore"
+    },
+    {
+      "rank": 25,
+      "college": "S.S. Jain Subodh P.G. College (Autonomous)",
+      "city": "Jaipur"
+    }
+  ],
+  "top_10_colleges_with_lowest_fees": [
+    {
+      "rank": 1,
+      "college": "Orange City College of Social Work",
+      "city": "Nagpur",
+      "course_fee": "₹9,200"
+    },
+    {
+      "rank": 2,
+      "college": "Loyola College of Social Sciences (Autonomous)",
+      "city": "Thiruvananthapuram",
+      "course_fee": "₹10,514"
+    },
+    {
+      "rank": 3,
+      "college": "Vimala College (Autonomous)",
+      "city": "Thrissur",
+      "course_fee": "₹14,970"
+    },
+    {
+      "rank": 4,
+      "college": "Department of Social Work, Aligarh Muslim University",
+      "city": "Aligarh",
+      "course_fee": "₹19,430"
+    },
+    {
+      "rank": 5,
+      "college": "PSG College of Arts & Science",
+      "city": "Coimbatore",
+      "course_fee": "₹19,960"
+    },
+    {
+      "rank": 6,
+      "college": "S.S. Jain Subodh P.G. College (Autonomous)",
+      "city": "Jaipur",
+      "course_fee": "₹22,000"
+    },
+    {
+      "rank": 7,
+      "college": "Department of Social Work, Jamia Millia Islamia",
+      "city": "New Delhi",
+      "course_fee": "₹28,150"
+    },
+    {
+      "rank": 8,
+      "college": "Periyar Maniammai Institute of Science & Technology",
+      "city": "Thanjavur",
+      "course_fee": "₹30,500"
+    },
+    {
+      "rank": 9,
+      "college": "Sri Ramakrishna Mission Vidyalaya College of Arts and Science",
+      "city": "Coimbatore",
+      "course_fee": "₹30,874"
+    },
+    {
+      "rank": 10,
+      "college": "Department of Social Work, Delhi School of Social Work, University of Delhi",
+      "city": "New Delhi",
+      "course_fee": "₹36,280"
+    }
+  ],
+  "top_10_colleges_with_best_value_for_money": [
+    {
+      "rank": 1,
+      "college": "Department of Social Work, Jamia Millia Islamia",
+      "city": "New Delhi",
+      "roi": 24.33
+    },
+    {
+      "rank": 2,
+      "college": "Loyola College of Social Sciences (Autonomous)",
+      "city": "Thiruvananthapuram",
+      "roi": 22.64
+    },
+    {
+      "rank": 3,
+      "college": "Department of Social Work, Aligarh Muslim University",
+      "city": "Aligarh",
+      "roi": 21.46
+    },
+    {
+      "rank": 4,
+      "college": "Orange City College of Social Work",
+      "city": "Nagpur",
+      "roi": 16.30
+    },
+    {
+      "rank": 5,
+      "college": "Rajagiri College of Social Sciences (Autonomous)",
+      "city": "Kochi",
+      "roi": 13.95
+    },
+    {
+      "rank": 6,
+      "college": "Department of Social Work, Delhi School of Social Work, University of Delhi",
+      "city": "New Delhi",
+      "roi": 13.78
+    },
+    {
+      "rank": 7,
+      "college": "Periyar Maniammai Institute of Science & Technology",
+      "city": "Thanjavur",
+      "roi": 10.07
+    },
+    {
+      "rank": 8,
+      "college": "Vimala College (Autonomous)",
+      "city": "Thrissur",
+      "roi": 8.91
+    },
+    {
+      "rank": 9,
+      "college": "Sri Ramakrishna Mission Vidyalaya College of Arts and Science",
+      "city": "Coimbatore",
+      "roi": 6.80
+    },
+    {
+      "rank": 10,
+      "college": "Stella Maris College (Autonomous)",
+      "city": "Chennai",
+      "roi": 6.67
+    }
+  ]
+}

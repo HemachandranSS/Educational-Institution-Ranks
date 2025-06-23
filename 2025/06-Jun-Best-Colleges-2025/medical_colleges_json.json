@@ -1,0 +1,314 @@
+{
+  "medical_colleges_ranking_2025": {
+    "source": "India Today Best Colleges 2025",
+    "categories": {
+      "top_emerging_colleges": {
+        "description": "Highest scoring colleges among those set up in and after 2000",
+        "colleges": [
+          {
+            "rank": 1,
+            "name": "Vardhman Mahavir Medical College",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 2,
+            "name": "All India Institute of Medical Sciences (AIIMS) Jodhpur",
+            "city": "Jodhpur"
+          },
+          {
+            "rank": 3,
+            "name": "All India Institute of Medical Sciences (AIIMS) Bhubaneswar",
+            "city": "Bhubaneswar"
+          },
+          {
+            "rank": 4,
+            "name": "All India Institute of Medical Sciences (AIIMS) Bhopal",
+            "city": "Bhopal"
+          },
+          {
+            "rank": 5,
+            "name": "All India Institute of Medical Sciences (AIIMS) Rishikesh",
+            "city": "Rishikesh"
+          },
+          {
+            "rank": 6,
+            "name": "All India Institute of Medical Sciences (AIIMS) Patna",
+            "city": "Patna"
+          },
+          {
+            "rank": 7,
+            "name": "All India Institute of Medical Sciences (AIIMS) Raipur",
+            "city": "Raipur"
+          },
+          {
+            "rank": 8,
+            "name": "Army College of Medical Sciences",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 9,
+            "name": "Era's Lucknow Medical College & Hospital",
+            "city": "Lucknow"
+          },
+          {
+            "rank": 10,
+            "name": "Belagavi Institute of Medical Sciences",
+            "city": "Belagavi"
+          }
+        ]
+      },
+      "top_gainers": {
+        "description": "Colleges that have made the biggest leap since last year",
+        "colleges": [
+          {
+            "rank": 3,
+            "name": "All India Institute of Medical Sciences (AIIMS) Jodhpur",
+            "city": "Jodhpur",
+            "rank_2025": 10,
+            "rank_2024": 14
+          },
+          {
+            "rank": 3,
+            "name": "All India Institute of Medical Sciences (AIIMS) Raipur",
+            "city": "Raipur",
+            "rank_2025": 21,
+            "rank_2024": 24
+          },
+          {
+            "rank": 3,
+            "name": "Jawaharlal Nehru Medical College, Belagavi",
+            "city": "Belagavi",
+            "rank_2025": 30,
+            "rank_2024": 42
+          }
+        ]
+      },
+      "new_entrants_top_25": {
+        "description": "Colleges that found place among top 25 for the first time",
+        "colleges": [
+          {
+            "rank": 25,
+            "name": "M.S. Ramaiah Medical College",
+            "city": "Bengaluru"
+          }
+        ]
+      },
+      "government_colleges_lowest_fees": {
+        "description": "Top 10 Government Colleges with Lowest Fees",
+        "colleges": [
+          {
+            "rank": 1,
+            "name": "Armed Forces Medical College (AFMC)",
+            "city": "Pune",
+            "course_fee_entire_duration": "₹0",
+            "note": "AFMC does not charge any fees"
+          },
+          {
+            "rank": 2,
+            "name": "All India Institute of Medical Sciences (AIIMS) Jodhpur",
+            "city": "Jodhpur",
+            "course_fee_entire_duration": "₹3,368"
+          },
+          {
+            "rank": 3,
+            "name": "All India Institute of Medical Sciences (AIIMS) Delhi",
+            "city": "New Delhi",
+            "course_fee_entire_duration": "₹3,728"
+          },
+          {
+            "rank": 4,
+            "name": "All India Institute of Medical Sciences (AIIMS) Raipur",
+            "city": "Raipur",
+            "course_fee_entire_duration": "₹4,256"
+          },
+          {
+            "rank": 5,
+            "name": "All India Institute of Medical Sciences (AIIMS) Bhubaneswar",
+            "city": "Bhubaneswar",
+            "course_fee_entire_duration": "₹5,856"
+          },
+          {
+            "rank": 5,
+            "name": "All India Institute of Medical Sciences (AIIMS) Bhopal",
+            "city": "Bhopal",
+            "course_fee_entire_duration": "₹5,856"
+          },
+          {
+            "rank": 5,
+            "name": "All India Institute of Medical Sciences (AIIMS) Patna",
+            "city": "Patna",
+            "course_fee_entire_duration": "₹5,856"
+          },
+          {
+            "rank": 8,
+            "name": "All India Institute of Medical Sciences (AIIMS) Rishikesh",
+            "city": "Rishikesh",
+            "course_fee_entire_duration": "₹8,950"
+          },
+          {
+            "rank": 9,
+            "name": "Maulana Azad Medical College (MAMC)",
+            "city": "New Delhi",
+            "course_fee_entire_duration": "₹11,660"
+          },
+          {
+            "rank": 10,
+            "name": "Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER)",
+            "city": "Puducherry",
+            "course_fee_entire_duration": "₹38,140"
+          }
+        ]
+      },
+      "private_colleges_lowest_fees": {
+        "description": "Top 10 Private Colleges with Lowest Fees",
+        "colleges": [
+          {
+            "rank": 1,
+            "name": "Christian Medical College & Hospital (CMC)",
+            "city": "Vellore",
+            "course_fee_entire_duration": "₹1,90,985"
+          },
+          {
+            "rank": 2,
+            "name": "Army College of Medical Sciences",
+            "city": "New Delhi",
+            "course_fee_entire_duration": "₹15,47,550"
+          },
+          {
+            "rank": 3,
+            "name": "Trichy SRM Medical College Hospital and Research Centre",
+            "city": "Tiruchirappalli",
+            "course_fee_entire_duration": "₹22,15,000"
+          },
+          {
+            "rank": 4,
+            "name": "Dayanand Medical College & Hospital",
+            "city": "Ludhiana",
+            "course_fee_entire_duration": "₹22,54,100"
+          },
+          {
+            "rank": 5,
+            "name": "St. John's Medical College",
+            "city": "Bengaluru",
+            "course_fee_entire_duration": "₹34,44,445"
+          },
+          {
+            "rank": 6,
+            "name": "PSG Institute of Medical Sciences & Research",
+            "city": "Coimbatore",
+            "course_fee_entire_duration": "₹34,80,000"
+          },
+          {
+            "rank": 7,
+            "name": "Chalmeda Anand Rao Institute of Medical Sciences",
+            "city": "Karimnagar",
+            "course_fee_entire_duration": "₹37,50,000"
+          },
+          {
+            "rank": 8,
+            "name": "Jubilee Mission Medical College & Research Institute",
+            "city": "Thrissur",
+            "course_fee_entire_duration": "₹42,27,216"
+          },
+          {
+            "rank": 9,
+            "name": "SDM College of Medical Sciences & Hospital",
+            "city": "Dharwad",
+            "course_fee_entire_duration": "₹43,21,785"
+          },
+          {
+            "rank": 10,
+            "name": "Believers Church Medical College Hospital",
+            "city": "Thiruvalla",
+            "course_fee_entire_duration": "₹43,71,382"
+          }
+        ]
+      },
+      "overall_top_10_2025": {
+        "description": "Top 10 Colleges 2025 - Overall Ranking",
+        "colleges": [
+          {
+            "rank_2025": 1,
+            "rank_2024": 1,
+            "name": "All India Institute of Medical Sciences",
+            "city": "New Delhi",
+            "change": "no_change"
+          },
+          {
+            "rank_2025": 2,
+            "rank_2024": 2,
+            "name": "Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER)",
+            "city": "Puducherry",
+            "change": "no_change"
+          },
+          {
+            "rank_2025": 3,
+            "rank_2024": 3,
+            "name": "Christian Medical College & Hospital (CMC)",
+            "city": "Vellore",
+            "change": "no_change"
+          },
+          {
+            "rank_2025": 4,
+            "rank_2024": 4,
+            "name": "Armed Forces Medical College (AFMC)",
+            "city": "Pune",
+            "change": "no_change"
+          },
+          {
+            "rank_2025": 5,
+            "rank_2024": 5,
+            "name": "Maulana Azad Medical College (MAMC)",
+            "city": "New Delhi",
+            "change": "no_change"
+          },
+          {
+            "rank_2025": 6,
+            "rank_2024": 6,
+            "name": "Institute of Medical Sciences, Banaras Hindu University",
+            "city": "Varanasi",
+            "change": "no_change"
+          },
+          {
+            "rank_2025": 7,
+            "rank_2024": 7,
+            "name": "Vardhman Mahavir Medical College",
+            "city": "New Delhi",
+            "change": "no_change"
+          },
+          {
+            "rank_2025": 8,
+            "rank_2024": 8,
+            "name": "King George's Medical University",
+            "city": "Lucknow",
+            "change": "no_change"
+          },
+          {
+            "rank_2025": 9,
+            "rank_2024": 10,
+            "name": "University College of Medical Sciences",
+            "city": "New Delhi",
+            "change": "up"
+          },
+          {
+            "rank_2025": 10,
+            "rank_2024": 14,
+            "name": "All India Institute of Medical Sciences",
+            "city": "Jodhpur",
+            "change": "up"
+          }
+        ]
+      }
+    },
+    "metadata": {
+      "publication_date": "June 30, 2025",
+      "publisher": "India Today",
+      "website": "https://bestcolleges.indiatoday.in/",
+      "notes": [
+        "Course fee = Tuition fee + other fees",
+        "AFMC does not charge any fees",
+        "Rankings based on various parameters including academic excellence, research, infrastructure, and placements"
+      ]
+    }
+  }
+}

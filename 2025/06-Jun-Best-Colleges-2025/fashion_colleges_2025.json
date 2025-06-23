@@ -1,0 +1,329 @@
+{
+  "top_10_colleges_2025": [
+    {
+      "rank": 1,
+      "college": "National Institute of Fashion Technology (NIFT), New Delhi",
+      "city": "New Delhi"
+    },
+    {
+      "rank": 2,
+      "college": "National Institute of Fashion Technology (NIFT), Bengaluru",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 3,
+      "college": "National Institute of Fashion Technology (NIFT), Mumbai",
+      "city": "Navi Mumbai"
+    },
+    {
+      "rank": 4,
+      "college": "National Institute of Fashion Technology (NIFT), Hyderabad",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": 5,
+      "college": "National Institute of Fashion Technology (NIFT), Chennai",
+      "city": "Chennai"
+    },
+    {
+      "rank": 6,
+      "college": "National Institute of Fashion Technology (NIFT), Patna",
+      "city": "Patna"
+    },
+    {
+      "rank": 7,
+      "college": "National Institute of Fashion Technology (NIFT), Gandhinagar",
+      "city": "Gandhinagar"
+    },
+    {
+      "rank": 8,
+      "college": "National Institute of Fashion Technology (NIFT), Kolkata",
+      "city": "Kolkata"
+    },
+    {
+      "rank": 9,
+      "college": "National Institute of Fashion Technology (NIFT), Jodhpur",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": 10,
+      "college": "Pearl Academy, New Delhi",
+      "city": "New Delhi"
+    }
+  ],
+  "best_placement_record": [
+    {
+      "rank": 1,
+      "college": "National Institute of Fashion Technology (NIFT), Gandhinagar",
+      "city": "Gandhinagar",
+      "average_annual_salary": "\u20b97,00,000"
+    },
+    {
+      "rank": 2,
+      "college": "National Institute of Fashion Technology (NIFT), Kannur",
+      "city": "Kannur",
+      "average_annual_salary": "\u20b97,00,000"
+    },
+    {
+      "rank": 3,
+      "college": "National Institute of Fashion Technology (NIFT), Bengaluru",
+      "city": "Bengaluru",
+      "average_annual_salary": "\u20b96,72,000"
+    },
+    {
+      "rank": 4,
+      "college": "National Institute of Fashion Technology (NIFT), Mumbai",
+      "city": "Navi Mumbai",
+      "average_annual_salary": "\u20b96,72,000"
+    },
+    {
+      "rank": 5,
+      "college": "National Institute of Fashion Technology (NIFT), New Delhi",
+      "city": "New Delhi",
+      "average_annual_salary": "\u20b96,50,000"
+    },
+    {
+      "rank": 6,
+      "college": "National Institute of Fashion Technology (NIFT), Jodhpur",
+      "city": "Jodhpur",
+      "average_annual_salary": "\u20b96,50,000"
+    },
+    {
+      "rank": 7,
+      "college": "National Institute of Fashion Technology (NIFT), Patna",
+      "city": "Patna",
+      "average_annual_salary": "\u20b96,39,551"
+    },
+    {
+      "rank": 8,
+      "college": "National Institute of Fashion Technology (NIFT), Hyderabad",
+      "city": "Hyderabad",
+      "average_annual_salary": "\u20b96,00,000"
+    },
+    {
+      "rank": 9,
+      "college": "National Institute of Fashion Technology (NIFT), Shillong",
+      "city": "Shillong",
+      "average_annual_salary": "\u20b96,00,000"
+    },
+    {
+      "rank": 10,
+      "college": "National Institute of Fashion Technology (NIFT), Chennai",
+      "city": "Chennai",
+      "average_annual_salary": "\u20b95,90,000"
+    }
+  ],
+  "lowest_fees": [
+    {
+      "rank": 1,
+      "college": "Department of Fashion Designing, Sardar Patel Mahavidyalaya",
+      "city": "Chandrapur",
+      "fees": "\u20b92,240"
+    },
+    {
+      "rank": 2,
+      "college": "Bon Secours College for Women",
+      "city": "Thanjavur",
+      "fees": "\u20b920,000"
+    },
+    {
+      "rank": 3,
+      "college": "Khalsa College Garhdiwala",
+      "city": "Hoshiarpur",
+      "fees": "\u20b988,318"
+    },
+    {
+      "rank": 4,
+      "college": "Hans Raj Mahila Maha Vidyalaya",
+      "city": "Jalandhar",
+      "fees": "\u20b91,10,100"
+    },
+    {
+      "rank": 5,
+      "college": "Kanya Maha Vidyalaya (Autonomous)",
+      "city": "Jalandhar",
+      "fees": "\u20b91,16,250"
+    },
+    {
+      "rank": 6,
+      "college": "Dr. D.Y. Patil Arts, Commerce & Science College, Pimpri",
+      "city": "Pune",
+      "fees": "\u20b91,20,000"
+    },
+    {
+      "rank": 7,
+      "college": "Department of Costume Design & Fashion, Kongu Arts and Science College (Autonomous)",
+      "city": "Erode",
+      "fees": "\u20b91,26,000"
+    },
+    {
+      "rank": 8,
+      "college": "Bishop Appasamy College of Arts and Science",
+      "city": "Coimbatore",
+      "fees": "\u20b91,47,600"
+    },
+    {
+      "rank": 9,
+      "college": "Muthayammal College of Arts and Science",
+      "city": "Namakkal",
+      "fees": "\u20b91,50,000"
+    },
+    {
+      "rank": 10,
+      "college": "KSR College of Arts and Science for Women",
+      "city": "Namakkal",
+      "fees": "\u20b91,50,000"
+    }
+  ],
+  "best_value_for_money": [
+    {
+      "rank": 1,
+      "college": "Bon Secours College for Women",
+      "city": "Thanjavur",
+      "roi": 3.01
+    },
+    {
+      "rank": 2,
+      "college": "Dr. D.Y. Patil Arts, Commerce & Science College, Pimpri",
+      "city": "Pune",
+      "roi": 2.75
+    },
+    {
+      "rank": 3,
+      "college": "Poddar International College",
+      "city": "Jaipur",
+      "roi": 2.18
+    },
+    {
+      "rank": 4,
+      "college": "The Oxford College of Science",
+      "city": "Bengaluru",
+      "roi": 2.13
+    },
+    {
+      "rank": 5,
+      "college": "Jaipur School of Design, JECRC University",
+      "city": "Jaipur",
+      "roi": 2.06
+    },
+    {
+      "rank": 6,
+      "college": "Hans Raj Mahila Maha Vidyalaya",
+      "city": "Jalandhar",
+      "roi": 2.01
+    },
+    {
+      "rank": 7,
+      "college": "Amity School of Fashion Technology, Raipur",
+      "city": "Raipur",
+      "roi": 1.88
+    },
+    {
+      "rank": 8,
+      "college": "Nehru Arts and Science College (Autonomous)",
+      "city": "Coimbatore",
+      "roi": 1.62
+    },
+    {
+      "rank": 9,
+      "college": "Kanya Maha Vidyalaya (Autonomous)",
+      "city": "Jalandhar",
+      "roi": 1.6
+    },
+    {
+      "rank": 10,
+      "college": "Department of Costume Design & Fashion, Kongu Arts and Science College (Autonomous)",
+      "city": "Erode",
+      "roi": 1.52
+    }
+  ],
+  "emerging_colleges": [
+    {
+      "rank": 1,
+      "college": "National Institute of Fashion Technology (NIFT), Hyderabad",
+      "city": "Hyderabad"
+    },
+    {
+      "rank": 2,
+      "college": "National Institute of Fashion Technology (NIFT), Patna",
+      "city": "Patna"
+    },
+    {
+      "rank": 3,
+      "college": "National Institute of Fashion Technology (NIFT), Jodhpur",
+      "city": "Jodhpur"
+    },
+    {
+      "rank": 4,
+      "college": "National Institute of Fashion Technology (NIFT), Kannur",
+      "city": "Kannur"
+    },
+    {
+      "rank": 5,
+      "college": "Symbiosis Institute of Design",
+      "city": "Pune"
+    },
+    {
+      "rank": 6,
+      "college": "National Institute of Fashion Technology (NIFT), Raebareli",
+      "city": "Raebareli"
+    },
+    {
+      "rank": 7,
+      "college": "National Institute of Fashion Technology (NIFT), Shillong",
+      "city": "Shillong"
+    },
+    {
+      "rank": 8,
+      "college": "Army Institute of Fashion and Design",
+      "city": "Bengaluru"
+    },
+    {
+      "rank": 9,
+      "college": "National Institute of Fashion Technology (NIFT), Kangra",
+      "city": "Kangra"
+    },
+    {
+      "rank": 10,
+      "college": "Pearl Academy, Jaipur",
+      "city": "Jaipur"
+    }
+  ],
+  "top_gainers": [
+    {
+      "college": "Faculty of Design and Arts, Poornima University",
+      "city": "Jaipur",
+      "rank_2025": 48,
+      "rank_2024": 54
+    },
+    {
+      "college": "Amity School of Fashion Technology, Mumbai",
+      "city": "Mumbai",
+      "rank_2025": 25,
+      "rank_2024": 30
+    },
+    {
+      "college": "Department of Costume Design & Fashion, Kongu Arts and Science College (Autonomous)",
+      "city": "Erode",
+      "rank_2025": 39,
+      "rank_2024": 44
+    }
+  ],
+  "new_entrants": [
+    {
+      "rank": 23,
+      "college": "Amity School of Fashion Technology, Kolkata",
+      "city": "Kolkata"
+    },
+    {
+      "rank": 24,
+      "college": "IACDS Design & Innovation Academy",
+      "city": "Noida"
+    },
+    {
+      "rank": 25,
+      "college": "Amity School of Fashion Technology, Mumbai",
+      "city": "Mumbai"
+    }
+  ]
+}

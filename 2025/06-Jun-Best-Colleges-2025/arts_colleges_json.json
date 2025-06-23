@@ -1,0 +1,697 @@
+{
+  "survey_info": {
+    "title": "Best Colleges of India 2025 - Arts",
+    "publication": "India Today",
+    "date": "June 30, 2025",
+    "website": "https://bestcolleges.indiatoday.in/"
+  },
+  "rankings": {
+    "top_gainers": {
+      "description": "Colleges that have made the biggest leap since last year",
+      "colleges": [
+        {
+          "rank": 86,
+          "college": "Kongu Arts and Science College (Autonomous)",
+          "city": "Erode",
+          "rank_2024": 96
+        },
+        {
+          "rank": 89,
+          "college": "Holy Cross College (Autonomous), Nagercoil",
+          "city": "Nagercoil",
+          "rank_2024": 98
+        },
+        {
+          "rank": 99,
+          "college": "Shri Nehru Maha Vidyalaya College of Arts & Science",
+          "city": "Coimbatore",
+          "rank_2024": 109
+        }
+      ]
+    },
+    "new_entrants_top_25": {
+      "description": "Colleges that found place among top 25 for the first time",
+      "colleges": [
+        {
+          "rank": 24,
+          "college": "Indraprastha College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 25,
+          "college": "Maitreyi College",
+          "city": "New Delhi"
+        }
+      ]
+    },
+    "regional_rankings": {
+      "east": [
+        {
+          "rank": 1,
+          "college": "Patna Women's College (Autonomous)",
+          "city": "Patna"
+        },
+        {
+          "rank": 2,
+          "college": "St. Xavier's College (Autonomous), Ranchi",
+          "city": "Ranchi"
+        },
+        {
+          "rank": 3,
+          "college": "Lady Brabourne College",
+          "city": "Kolkata"
+        },
+        {
+          "rank": 4,
+          "college": "Anugrah Narayan (A.N.) College",
+          "city": "Patna"
+        },
+        {
+          "rank": 5,
+          "college": "Bethune College",
+          "city": "Kolkata"
+        }
+      ],
+      "north": [
+        {
+          "rank": 1,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Miranda House",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "college": "Kirori Mal College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "college": "Hansraj College",
+          "city": "New Delhi"
+        }
+      ],
+      "west": [
+        {
+          "rank": 1,
+          "college": "SVKM's Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal Chauhan College of Commerce and Economics (Autonomous)",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 2,
+          "college": "St. Xavier's College (Autonomous), Mumbai",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 3,
+          "college": "K.J. Somaiya College of Arts and Commerce (Autonomous)",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 4,
+          "college": "Kishinchand Chellaram College",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 5,
+          "college": "Sophia College for Women (Autonomous)",
+          "city": "Mumbai"
+        }
+      ],
+      "south": [
+        {
+          "rank": 1,
+          "college": "Madras Christian College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 2,
+          "college": "Loyola College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 3,
+          "college": "School of Art & Humanities and School of Social Sciences, Christ (Deemed to be University)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 4,
+          "college": "School of Humanities & Social Sciences, St Joseph's University",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 5,
+          "college": "Mount Carmel College (Autonomous)",
+          "city": "Bengaluru"
+        }
+      ]
+    },
+    "subject_wise_rankings": {
+      "ba_history": [
+        {
+          "rank": 1,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Madras Christian College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 3,
+          "college": "Ramjas College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "college": "Hansraj College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "college": "Miranda House",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 6,
+          "college": "Kirori Mal College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 7,
+          "college": "St. Xavier's College (Autonomous), Mumbai",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 8,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 9,
+          "college": "Loyola College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 10,
+          "college": "Sri Venkateswara College",
+          "city": "New Delhi"
+        }
+      ],
+      "ba_political_science": [
+        {
+          "rank": 1,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Miranda House",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "Kirori Mal College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "college": "Ramjas College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "college": "Madras Christian College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 6,
+          "college": "Sri Venkateswara College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 7,
+          "college": "Atma Ram Sanatan Dharma College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 8,
+          "college": "SVKM's Mithibai College of Arts",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 9,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 10,
+          "college": "St. Xavier's College (Autonomous), Mumbai",
+          "city": "Mumbai"
+        }
+      ],
+      "ba_hindi": [
+        {
+          "rank": 1,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Kirori Mal College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "Hansraj College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "college": "Miranda House",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "college": "Kishinchand Chellaram College",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 6,
+          "college": "St. Xavier's College (Autonomous), Mumbai",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 7,
+          "college": "Sri Venkateswara College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 8,
+          "college": "Shivaji College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 9,
+          "college": "Ramjas College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 10,
+          "college": "Ramanujan College",
+          "city": "New Delhi"
+        }
+      ],
+      "ba_psychology": [
+        {
+          "rank": 1,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "SVKM's Mithibai College of Arts",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 3,
+          "college": "Daulat Ram College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "college": "St. Xavier's College (Autonomous), Mumbai",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 5,
+          "college": "Mata Sundri College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 6,
+          "college": "Bethune College",
+          "city": "Kolkata"
+        },
+        {
+          "rank": 7,
+          "college": "Aryabhatta College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 8,
+          "college": "Mount Carmel College (Autonomous)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 9,
+          "college": "Kishinchand Chellaram College",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 10,
+          "college": "Lakshmibai College",
+          "city": "New Delhi"
+        }
+      ],
+      "ba_sociology": [
+        {
+          "rank": 1,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Miranda House",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "Loyola College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 4,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "college": "Kishinchand Chellaram College",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 6,
+          "college": "St. Xavier's College (Autonomous), Mumbai",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 7,
+          "college": "SVKM's Mithibai College of Arts",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 8,
+          "college": "Sri Venkateswara College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 9,
+          "college": "Lady Brabourne College",
+          "city": "Kolkata"
+        },
+        {
+          "rank": 10,
+          "college": "Stella Maris College (Autonomous)",
+          "city": "Chennai"
+        }
+      ],
+      "ba_philosophy": [
+        {
+          "rank": 1,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "SVKM's Mithibai College of Arts",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 4,
+          "college": "Ramjas College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "college": "Hansraj College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 6,
+          "college": "Miranda House",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 7,
+          "college": "Madras Christian College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 8,
+          "college": "Ramanujan College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 9,
+          "college": "Daulat Ram College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 10,
+          "college": "Lady Brabourne College",
+          "city": "Kolkata"
+        }
+      ],
+      "ba_english": [
+        {
+          "rank": 1,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Miranda House",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "St. Xavier's College (Autonomous), Mumbai",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 4,
+          "college": "Madras Christian College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 5,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 6,
+          "college": "Loyola College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 7,
+          "college": "Hansraj College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 8,
+          "college": "Kirori Mal College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 9,
+          "college": "Women's Christian College",
+          "city": "Chennai"
+        },
+        {
+          "rank": 10,
+          "college": "Ramjas College",
+          "city": "New Delhi"
+        }
+      ],
+      "ba_economics": [
+        {
+          "rank": 1,
+          "college": "Lady Shri Ram College for Women",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 2,
+          "college": "Hindu College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 3,
+          "college": "Ramjas College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 4,
+          "college": "Hansraj College",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 5,
+          "college": "Miranda House",
+          "city": "New Delhi"
+        },
+        {
+          "rank": 6,
+          "college": "St. Xavier's College (Autonomous), Mumbai",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 7,
+          "college": "Loyola College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 8,
+          "college": "Stella Maris College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 9,
+          "college": "Madras Christian College (Autonomous)",
+          "city": "Chennai"
+        },
+        {
+          "rank": 10,
+          "college": "Kirori Mal College",
+          "city": "New Delhi"
+        }
+      ]
+    },
+    "lowest_fees": {
+      "description": "Top 10 colleges with lowest fees",
+      "note": "Course fee = Tuition fee + other fees",
+      "colleges": [
+        {
+          "rank": 1,
+          "college": "A.P.C. Mahalaxmi College for Women",
+          "city": "Thoothukudi",
+          "course_fee_duration": "₹959"
+        },
+        {
+          "rank": 2,
+          "college": "V.O. Chidambaram College",
+          "city": "Thoothukudi",
+          "course_fee_duration": "₹1,174"
+        },
+        {
+          "rank": 3,
+          "college": "Shree Meghmani Parivar and Shree Bhailalbhai A. Patel (Petrolwala) Umiya Arts and Commerce College for Girls",
+          "city": "Ahmedabad",
+          "course_fee_duration": "₹2,250"
+        },
+        {
+          "rank": 4,
+          "college": "Government Arts College (Autonomous), Salem",
+          "city": "Salem",
+          "course_fee_duration": "₹2,575"
+        },
+        {
+          "rank": 5,
+          "college": "KM. Mayawati Government Girls P.G. College",
+          "city": "Gautam Budh Nagar",
+          "course_fee_duration": "₹5,400"
+        },
+        {
+          "rank": 6,
+          "college": "All Saints' College",
+          "city": "Thiruvananthapuram",
+          "course_fee_duration": "₹6,420"
+        },
+        {
+          "rank": 7,
+          "college": "Vimala College (Autonomous)",
+          "city": "Thrissur",
+          "course_fee_duration": "₹6,615"
+        },
+        {
+          "rank": 8,
+          "college": "Dr. B.K.B. College",
+          "city": "Nagaon",
+          "course_fee_duration": "₹7,800"
+        },
+        {
+          "rank": 9,
+          "college": "Bethune College",
+          "city": "Kolkata",
+          "course_fee_duration": "₹7,200"
+        },
+        {
+          "rank": 10,
+          "college": "Mar Athanasius College (Autonomous)",
+          "city": "Ernakulam",
+          "course_fee_duration": "₹8,020"
+        }
+      ]
+    },
+    "emerging_colleges": {
+      "description": "Top 10 emerging colleges - Highest-scoring colleges among those set up in and after 2000",
+      "colleges": [
+        {
+          "rank": 1,
+          "college": "Kristu Jayanti College (Autonomous)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 2,
+          "college": "Presidency College (Autonomous)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 3,
+          "college": "SVKM's NMIMS Sarla Anil Modi School of Economics",
+          "city": "Mumbai"
+        },
+        {
+          "rank": 4,
+          "college": "School of Humanities and Social Sciences, Jain (Deemed-to-be University)",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 5,
+          "college": "Dr. N.G.P. Arts and Science College (Autonomous)",
+          "city": "Coimbatore"
+        },
+        {
+          "rank": 6,
+          "college": "Loyola Academy",
+          "city": "Secunderabad"
+        },
+        {
+          "rank": 7,
+          "college": "St. Joseph's Degree & PG College",
+          "city": "Hyderabad"
+        },
+        {
+          "rank": 8,
+          "college": "The Oxford College of Arts",
+          "city": "Bengaluru"
+        },
+        {
+          "rank": 9,
+          "college": "Sri Krishna Arts and Science College (Autonomous)",
+          "city": "Coimbatore"
+        },
+        {
+          "rank": 10,
+          "college": "Department of Humanities, Galgotias Univ.",
+          "city": "Greater Noida"
+        }
+      ]
+    }
+  }
+}

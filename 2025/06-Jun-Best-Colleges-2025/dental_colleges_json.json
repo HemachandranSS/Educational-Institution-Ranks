@@ -1,0 +1,314 @@
+{
+  "dental_colleges_data": {
+    "source": "Best Colleges of India 2025 - Dental",
+    "website": "https://bestcolleges.indiatoday.in/",
+    "categories": {
+      "top_private_colleges_lowest_fees": {
+        "title": "Top 10 Private Colleges with Lowest Fees",
+        "colleges": [
+          {
+            "rank": 1,
+            "college": "Kamineni Institute of Dental Sciences",
+            "city": "Narketpally",
+            "course_fee": "₹7,06,774"
+          },
+          {
+            "rank": 2,
+            "college": "Bhojia Dental College & Hospital",
+            "city": "Baddi",
+            "course_fee": "₹7,86,774"
+          },
+          {
+            "rank": 3,
+            "college": "Mansarovar Dental College",
+            "city": "Bhopal",
+            "course_fee": "₹8,02,000"
+          },
+          {
+            "rank": 4,
+            "college": "Rishiraj College of Dental Sciences & Research Centre",
+            "city": "Bhopal",
+            "course_fee": "₹9,10,000"
+          },
+          {
+            "rank": 5,
+            "college": "Seema Dental College & Hospital",
+            "city": "Rishikesh",
+            "course_fee": "₹9,17,000"
+          },
+          {
+            "rank": 6,
+            "college": "Rungta College of Dental Sciences & Research",
+            "city": "Bhilai",
+            "course_fee": "₹9,67,200"
+          },
+          {
+            "rank": 7,
+            "college": "People's Dental Academy",
+            "city": "Bhopal",
+            "course_fee": "₹10,72,000"
+          },
+          {
+            "rank": 8,
+            "college": "Krishnadevaraya College of Dental Sciences & Hospital",
+            "city": "Bengaluru",
+            "course_fee": "₹10,74,044"
+          },
+          {
+            "rank": 9,
+            "college": "Chettinad Dental College & Research Institute",
+            "city": "Kanchipuram",
+            "course_fee": "₹11,00,000"
+          },
+          {
+            "rank": 10,
+            "college": "Christian Dental College and Hospital",
+            "city": "Ludhiana",
+            "course_fee": "₹12,46,545"
+          }
+        ]
+      },
+      "top_government_colleges_lowest_fees": {
+        "title": "Top 10 Government Colleges with Lowest Fees",
+        "colleges": [
+          {
+            "rank": 1,
+            "college": "Maulana Azad Institute of Dental Sciences",
+            "city": "New Delhi",
+            "course_fee": "₹14,415"
+          },
+          {
+            "rank": 2,
+            "college": "Dr. Ziauddin Ahmed Dental College, Aligarh Muslim University",
+            "city": "Aligarh",
+            "course_fee": "₹67,915"
+          },
+          {
+            "rank": 3,
+            "college": "Faculty of Dental Sciences, King George's Medical University",
+            "city": "Lucknow",
+            "course_fee": "₹93,000"
+          },
+          {
+            "rank": 4,
+            "college": "Faculty of Dental Sciences, IMS, BHU",
+            "city": "Varanasi",
+            "course_fee": "₹1,19,496"
+          },
+          {
+            "rank": 5,
+            "college": "Government Dental College Thiruvananthapuram",
+            "city": "Thiruvananthapuram",
+            "course_fee": "₹1,25,010"
+          },
+          {
+            "rank": 6,
+            "college": "Himachal Pradesh Government Dental College and Hospital",
+            "city": "Shimla",
+            "course_fee": "₹1,56,000"
+          },
+          {
+            "rank": 7,
+            "college": "Post Graduate Institute of Dental Sciences",
+            "city": "Rohtak",
+            "course_fee": "₹1,89,360"
+          },
+          {
+            "rank": 8,
+            "college": "Government Dental College and Hospital, Mumbai",
+            "city": "Mumbai",
+            "course_fee": "₹3,96,000"
+          },
+          {
+            "rank": 9,
+            "college": "ESIC Dental College and Hospital",
+            "city": "Gulbarga",
+            "course_fee": "₹4,30,000"
+          },
+          {
+            "rank": 10,
+            "college": "Government Dental College and Hospital, Nagpur",
+            "city": "Nagpur",
+            "course_fee": "₹4,32,697"
+          }
+        ]
+      },
+      "top_emerging_colleges": {
+        "title": "Top 10 Emerging Colleges",
+        "subtitle": "Highest-scoring colleges among those set up in and after 2000",
+        "colleges": [
+          {
+            "rank": 1,
+            "college": "Faculty of Dental Sciences, IMS, BHU",
+            "city": "Varanasi"
+          },
+          {
+            "rank": 2,
+            "college": "Dr. Ziauddin Ahmed Dental College, Aligarh Muslim University",
+            "city": "Aligarh"
+          },
+          {
+            "rank": 3,
+            "college": "Sri Ramachandra Dental College & Hospital",
+            "city": "Chennai"
+          },
+          {
+            "rank": 4,
+            "college": "I.T.S Centre for Dental Studies & Research",
+            "city": "Ghaziabad"
+          },
+          {
+            "rank": 5,
+            "college": "Himachal Pradesh Government Dental College and Hospital",
+            "city": "Shimla"
+          },
+          {
+            "rank": 6,
+            "college": "Dr. Harvansh Singh Judge Institute of Dental Sciences & Hospital",
+            "city": "Chandigarh"
+          },
+          {
+            "rank": 7,
+            "college": "Army College of Dental Sciences",
+            "city": "Secunderabad"
+          },
+          {
+            "rank": 8,
+            "college": "Manav Rachna Dental College",
+            "city": "Faridabad"
+          },
+          {
+            "rank": 9,
+            "college": "I.T.S Dental College, Hospital & Research Centre",
+            "city": "Greater Noida"
+          },
+          {
+            "rank": 10,
+            "college": "School of Dental Sciences, Sharda University",
+            "city": "Greater Noida"
+          }
+        ]
+      },
+      "top_gainers": {
+        "title": "Top 3 Gainers",
+        "subtitle": "Colleges that have made the biggest leap since last year",
+        "colleges": [
+          {
+            "college": "Dr. Harvansh Singh Judge Institute of Dental Sciences & Hospital",
+            "city": "Chandigarh",
+            "rank_2023": 19,
+            "rank_2024": 26
+          },
+          {
+            "college": "Subharti Dental College & Hospital",
+            "city": "Meerut",
+            "rank_2023": 30,
+            "rank_2024": 37
+          },
+          {
+            "college": "Bhojia Dental College & Hospital",
+            "city": "Baddi",
+            "rank_2023": 43,
+            "rank_2024": 50
+          }
+        ]
+      },
+      "new_entrants": {
+        "title": "New Entrants",
+        "subtitle": "Colleges that feature among the top 25 for the first time",
+        "colleges": [
+          {
+            "rank": 19,
+            "college": "Dr. Harvansh Singh Judge Institute of Dental Sciences & Hospital",
+            "city": "Chandigarh"
+          },
+          {
+            "rank": 22,
+            "college": "Manav Rachna Dental College",
+            "city": "Faridabad"
+          },
+          {
+            "rank": 24,
+            "college": "Bharati Vidyapeeth (Deemed to be University) Dental College & Hospital, Pune",
+            "city": "Pune"
+          },
+          {
+            "rank": 25,
+            "college": "I.T.S Dental College, Hospital & Research Centre",
+            "city": "Greater Noida"
+          }
+        ]
+      },
+      "top_colleges_2025": {
+        "title": "Top 10 Colleges 2025",
+        "colleges": [
+          {
+            "rank_2025": 1,
+            "rank_2024": 1,
+            "college": "Maulana Azad Institute of Dental Sciences",
+            "city": "New Delhi"
+          },
+          {
+            "rank_2025": 2,
+            "rank_2024": 2,
+            "college": "Faculty of Dental Sciences, King George's Medical University",
+            "city": "Lucknow"
+          },
+          {
+            "rank_2025": 3,
+            "rank_2024": 3,
+            "college": "Faculty of Dental Sciences, IMS, BHU",
+            "city": "Varanasi"
+          },
+          {
+            "rank_2025": 4,
+            "rank_2024": 4,
+            "college": "Post Graduate Institute of Dental Sciences",
+            "city": "Rohtak"
+          },
+          {
+            "rank_2025": 5,
+            "rank_2024": 5,
+            "college": "Manipal College of Dental Sciences",
+            "city": "Manipal"
+          },
+          {
+            "rank_2025": 6,
+            "rank_2024": 7,
+            "college": "Nair Hospital Dental College",
+            "city": "Mumbai"
+          },
+          {
+            "rank_2025": 7,
+            "rank_2024": 6,
+            "college": "Government Dental College and Hospital",
+            "city": "Mumbai"
+          },
+          {
+            "rank_2025": 8,
+            "rank_2024": 9,
+            "college": "Government Dental College & Hospital",
+            "city": "Nagpur"
+          },
+          {
+            "rank_2025": 9,
+            "rank_2024": 8,
+            "college": "Dr. Ziauddin Ahmed Dental College, Aligarh Muslim University",
+            "city": "Aligarh"
+          },
+          {
+            "rank_2025": 10,
+            "rank_2024": 13,
+            "college": "Faculty of Dental Sciences, Ramaiah University of Applied Sciences",
+            "city": "Bengaluru"
+          }
+        ]
+      }
+    },
+    "notes": {
+      "fee_structure": "Course fee = Tuition fee + other fees",
+      "comparison_period": "8-year comparative analysis available",
+      "reference_url": "https://bestcolleges.indiatoday.in"
+    }
+  }
+}

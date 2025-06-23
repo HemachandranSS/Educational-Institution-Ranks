@@ -1,0 +1,320 @@
+{
+  "mass_communication_colleges_rankings": {
+    "source": "India Today Best Colleges of India 2025",
+    "category": "Mass Communication",
+    "rankings": {
+      "top_emerging_colleges": {
+        "description": "Highest scoring colleges among those set up in and after 2000",
+        "colleges": [
+          {
+            "rank": 1,
+            "college": "Department of Media Studies, Christ (Deemed to be University)",
+            "city": "Bengaluru"
+          },
+          {
+            "rank": 2,
+            "college": "Amity School of Communication, Noida",
+            "city": "Noida"
+          },
+          {
+            "rank": 3,
+            "college": "Manorama School of Communication (MASCOM)",
+            "city": "Kottayam"
+          },
+          {
+            "rank": 4,
+            "college": "Kishinchand Chellaram College",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 5,
+            "college": "Apeejay Institute of Mass Communication",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 6,
+            "college": "Madras Christian College (Autonomous)",
+            "city": "Chennai"
+          },
+          {
+            "rank": 7,
+            "college": "Department of Media Studies, Imit (Deemed-to-be University)",
+            "city": "Bengaluru"
+          },
+          {
+            "rank": 8,
+            "college": "School of Media and Communication Studies, Galgotias University",
+            "city": "Greater Noida"
+          },
+          {
+            "rank": 9,
+            "college": "St. Joseph College of Communication",
+            "city": "Kottayam"
+          },
+          {
+            "rank": 10,
+            "college": "Jagran School of Journalism and Communication",
+            "city": "Bhopal"
+          }
+        ]
+      },
+      "top_gainers": {
+        "description": "Colleges that have made the biggest leap since last year",
+        "colleges": [
+          {
+            "college": "School of Communications, Xim University",
+            "city": "Harirajpur, Odisha",
+            "rank_2025": 27,
+            "rank_2024": 33
+          },
+          {
+            "college": "Amity School of Communication, Panvel",
+            "city": "Navi Mumbai",
+            "rank_2025": 30,
+            "rank_2024": 35
+          },
+          {
+            "college": "Hindusthan College of Arts and Science",
+            "city": "Coimbatore",
+            "rank_2025": 39,
+            "rank_2024": 44
+          }
+        ]
+      },
+      "new_entrants": {
+        "description": "Colleges that feature among the top 25 for the first time",
+        "colleges": [
+          {
+            "rank": 23,
+            "college": "Department of Journalism & Mass Communication, Kristu Jayanti College (Autonomous)",
+            "city": "Bengaluru"
+          },
+          {
+            "rank": 24,
+            "college": "St. Aloysius College (Autonomous)",
+            "city": "Mangaluru"
+          },
+          {
+            "rank": 25,
+            "college": "Mehr Chand Mahajan Dav College for Women",
+            "city": "Chandigarh"
+          }
+        ]
+      },
+      "lowest_fees": {
+        "description": "Top 10 colleges with lowest fees",
+        "colleges": [
+          {
+            "rank": 1,
+            "college": "Department of Mass Communication, Aligarh Muslim University",
+            "city": "Aligarh",
+            "course_fee": "₹11,830"
+          },
+          {
+            "rank": 2,
+            "college": "Department of Journalism & Mass Communication, PSG College of Arts & Science",
+            "city": "Coimbatore",
+            "course_fee": "₹16,000"
+          },
+          {
+            "rank": 3,
+            "college": "S.S. Jain Subodh P.G. College (Autonomous)",
+            "city": "Jaipur",
+            "course_fee": "₹29,500"
+          },
+          {
+            "rank": 4,
+            "college": "Sardar Patel Mahavidyalaya",
+            "city": "Chandrapur, Maharashtra",
+            "course_fee": "₹30,460"
+          },
+          {
+            "rank": 5,
+            "college": "Mehr Chand Mahajan Dav College for Women",
+            "city": "Chandigarh",
+            "course_fee": "₹34,153"
+          },
+          {
+            "rank": 6,
+            "college": "Makhanlal Chaturvedi National University of Journalism and Communication",
+            "city": "Bhopal",
+            "course_fee": "₹50,446"
+          },
+          {
+            "rank": 7,
+            "college": "Alva's College (Autonomous)",
+            "city": "Moodbidire, Karnataka",
+            "course_fee": "₹51,000"
+          },
+          {
+            "rank": 8,
+            "college": "Kishinchand Chellaram College",
+            "city": "Mumbai",
+            "course_fee": "₹61,746"
+          },
+          {
+            "rank": 9,
+            "college": "Safi Institute of Advanced Study (Autonomous)",
+            "city": "Malappuram",
+            "course_fee": "₹65,000"
+          },
+          {
+            "rank": 10,
+            "college": "Department of Media and Communication Studies, Savitribai Phule Pune University",
+            "city": "Pune",
+            "course_fee": "₹67,184"
+          }
+        ]
+      },
+      "best_value_for_money": {
+        "description": "Top 10 colleges with best value for money (RoI - Return on Investment)",
+        "colleges": [
+          {
+            "rank": 1,
+            "college": "Department of Media and Communication Studies, Savitribai Phule Pune University",
+            "city": "Pune",
+            "roi": 7.44
+          },
+          {
+            "rank": 2,
+            "college": "Kishinchand Chellaram College",
+            "city": "Mumbai",
+            "roi": 5.87
+          },
+          {
+            "rank": 3,
+            "college": "Department of Journalism & Mass Communication, Kristu Jayanti College (Autonomous)",
+            "city": "Bengaluru",
+            "roi": 4.34
+          },
+          {
+            "rank": 4,
+            "college": "Makhanlal Chaturvedi National University of Journalism and Communication",
+            "city": "Bhopal",
+            "roi": 3.96
+          },
+          {
+            "rank": 5,
+            "college": "Tilak School of Journalism & Mass Communication, CCSU Meerut",
+            "city": "Meerut",
+            "roi": 3.78
+          },
+          {
+            "rank": 6,
+            "college": "Indian Institute of Mass Communication (IIMC)",
+            "city": "New Delhi",
+            "roi": 3.31
+          },
+          {
+            "rank": 7,
+            "college": "Amity School of Communication, Patna",
+            "city": "Patna",
+            "roi": 3.25
+          },
+          {
+            "rank": 8,
+            "college": "Marathwada Mitra Mandal's College of Commerce",
+            "city": "Pune",
+            "roi": 2.90
+          },
+          {
+            "rank": 9,
+            "college": "Dav College, Jalandhar",
+            "city": "Jalandhar",
+            "roi": 2.72
+          },
+          {
+            "rank": 10,
+            "college": "Manorama School of Communication (MASCOM)",
+            "city": "Kottayam",
+            "roi": 2.59
+          }
+        ]
+      },
+      "overall_top_10": {
+        "description": "Top 10 colleges 2025 overall ranking",
+        "colleges": [
+          {
+            "rank": 1,
+            "previous_rank": 1,
+            "college": "Indian Institute of Mass Communication (IIMC)",
+            "city": "New Delhi"
+          },
+          {
+            "rank": 2,
+            "previous_rank": 2,
+            "college": "Department of Media and Communication Studies, Savitribai Phule Pune University",
+            "city": "Pune"
+          },
+          {
+            "rank": 3,
+            "previous_rank": 3,
+            "college": "Symbiosis Institute of Media & Communication",
+            "city": "Pune"
+          },
+          {
+            "rank": 4,
+            "previous_rank": 6,
+            "college": "Manipal Institute of Communication, Mahe",
+            "city": "Manipal"
+          },
+          {
+            "rank": 5,
+            "previous_rank": 5,
+            "college": "Xavier Institute of Communications",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 6,
+            "previous_rank": 8,
+            "college": "Department of Media Studies, Christ (Deemed to be University)",
+            "city": "Bengaluru"
+          },
+          {
+            "rank": 7,
+            "previous_rank": 11,
+            "college": "Amity School of Communication",
+            "city": "Noida"
+          },
+          {
+            "rank": 8,
+            "previous_rank": 9,
+            "college": "Manorama School of Communication (MASCOM)",
+            "city": "Kottayam"
+          },
+          {
+            "rank": 9,
+            "previous_rank": 12,
+            "college": "Kishinchand Chellaram College",
+            "city": "Mumbai"
+          },
+          {
+            "rank": 10,
+            "previous_rank": 10,
+            "college": "Makhanlal Chaturvedi National University of Journalism and Communication",
+            "city": "Bhopal"
+          }
+        ]
+      }
+    },
+    "featured_institute": {
+      "name": "Indian Institute of Mass Communication (IIMC)",
+      "city": "New Delhi",
+      "rank": 1,
+      "title": "Crown Jewel of Journalism",
+      "reasons_for_being_best": [
+        "IIMC's curriculum is continually updated to reflect modern media trends. Recently granted deemed-to-be university status, it has launched cutting-edge programmes in emerging areas—for example, master's courses in Media Business Studies and Strategic Communication, and training modules on Generative AI, Drone Journalism, AR/VR, and Health Communication.",
+        "The institute has well-known professionals training students and simulation of real newsroom working conditions. And the unique environment of mentorship, working under veteran journalists and communication professionals further help IIMC deliver job-ready skills.",
+        "The campus has undergone massive upgradation of infrastructure—multi-lingual labs, smart classrooms, professional TV and radio studios, latest tools for AI-based content creation.",
+        "There is close connection between students and the media industry, which benefits from guest lectures by prominent editors to obligatory internships helping connect classroom to the newsroom. It also has a dedicated placement cell.",
+        "IIMC has one of the largest alumni networks in journalism, yielding powerful media professionals for nearly six decades. It adds a lot to the prestige and industry connections."
+      ]
+    },
+    "metadata": {
+      "publication": "India Today",
+      "date": "June 30, 2025",
+      "website": "https://bestcolleges.indiatoday.in",
+      "note": "Course fee includes Tuition fee + Other fees for entire duration. RoI (return on investment) is calculated based on average annual salary/total course fees (entire duration)."
+    }
+  }
+}
